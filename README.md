@@ -1,6 +1,7 @@
 # Weasel-HanNom_Keyboard
 A modified edition of Weasel Hán Nôm Keyboard published by Hán Nôm Revival Comitee of Việt Nam (Ủy ban Phục sinh Hán Nôm Việt Nam)
 This edition changes Telex input method to no-diacritics input method (like Pinyin). Besides it is added **many common compound words**, helps us type faster and more accurate.
+
 However, since **it has been developed recently**, so there are many words that haven't been added into yet.
 So, I hope you all positively give me feedback and suggest words not added yet in order to improve our typing experience.
 The latest one is based on Bảng chữ Hán Nôm chuẩn thường dùng (29/06/2023)
