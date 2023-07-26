@@ -1,6 +1,7 @@
 This below is a part of content in the magazine "Quảng Ninh toàn cảnh 2022" (廣寧全景2022) written in **Chữ Nôm**, a big heritage of Việt Nam.
 
-![image](https://github.com/Liu2k5/Weasel_HanNom_Keyboard/assets/118142971/83b13ef2-d075-425d-9444-56e8c4393a0e)
+![image](https://github.com/Liu2k5/Weasel_HanNom_Keyboard/assets/118142971/36952b2c-d8bf-4c45-a6b4-fb602f465570)
+
 
 # Weasel-HanNom_Keyboard
 A modified edition of Weasel Hán Nôm Keyboard published by Hán Nôm Revival Comitee of Việt Nam (Ủy ban Phục sinh Hán Nôm Việt Nam)
