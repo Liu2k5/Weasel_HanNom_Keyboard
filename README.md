@@ -1,3 +1,4 @@
+This below is a part of content in the magazine "Quảng Ninh toàn cảnh 2022" (廣寧全景2022) written in **Chữ Nôm**, a big heritage of Việt Nam.
 ![image](https://github.com/Liu2k5/Weasel_HanNom_Keyboard/assets/118142971/83b13ef2-d075-425d-9444-56e8c4393a0e)
 
 # Weasel-HanNom_Keyboard
