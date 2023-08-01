@@ -13,8 +13,14 @@ min_phrase_weight: 0
 ...	
 	
 	
-𱐂	nguoiⓥ ⇔ 𱐂 nguồi | 𱐂𱐂 nguồi nguội	2
-𱐂	nguoiⓥ 𱐂冷 nguội lanh, 𩚵𱐂 cơm nguội, 𠏲𱐂 thợ nguội	303500
+𱐂	nguoiⓥ 𱐂冷 nguội lanh, 𠏲𱐂 thợ nguội；⇔ 𱐂 nguồi | 𱐂𱐂 nguồi nguội	303500
+𩷉	giecⓥ 𩵜𩷉 cá giếc	2
+𩷉	diecⓥ ⇔ 𩷉 giếc	2
+唪	bangⓥ ⇔ 唪 bỗng | 珥唪 nhẹ bẫng	2
+𫽦	nhuomⓥ 𫽦𦭷 nhuốm màu, 𫽦病 nhuốm bệnh	2
+𤇲	nhuomⓥ ⇔ 𤇲 nhóm | 𤇲焒 nhuốm lửa	2
+𬕳	trocⓥ 𬕳𩠴 trốc gối, 咹𨑗𱖗𬕳 ăn trên ngồi trốc	2
+𰔺	trocⓥ 茹𰔺𠃅 nhà trốc mái, 茹𰔺𠃅 cây trốc rễi	2
 𱐟	chuotⓥ 𦃀𱐟 chải chuốt, 𢫵𱐟 trau chuốt	2
 𱠲	vacⓥ 扑𱠲 bốc vác ※𡨸翻音	218000
 𱠴	niuⓥ 㨢𱠴 nâng niu	395800
@@ -53,7 +59,7 @@ min_phrase_weight: 0
 𰈒	nucⓥ 𰈒䑈 nục nạc	2
 𰸣	vapⓥ 𰸣叭 vấp váp ※𡨸翻音	276900
 𰈤	sipⓥ   ※𡨸翻音	2
-𰈸	suⓥ 𫰅𰈸 to sụ, 𢀭𰈸 giàu sụ, 𰈸𰈸 sù sụ	5500
+𰈸	suⓥ 𫰅𰈸 to sụ, 𢀭𰈸 giàu sụ；𰈸𰈸 sù sụ	5500
 𰈼	linhⓥ 嗍𰈼 láu lỉnh, 蘝𰈼 lém lỉnh, 𰈼𠎠 lỉnh kỉnh	375000
 𱙡	voⓥ 𱙡𫯳 vợ chồng, 𱙡𪥘󠄁 vợ cả	50200
 𰪯	nhamⓥ ⇔ 𰪯 nhám | 𰪯𰪯 nham nhám	311400
@@ -197,19 +203,15 @@ min_phrase_weight: 0
 巨	cuⓗ 巨擘 cự phách, 巨富 cự phú	252500
 牙	nhaⓗ 牙士 nha sĩ, 牙疳 nha cam ※𡨸翻音	88000
 屯	donⓗ 屯壘 đồn luỹ, 屯公安 đồn công an	178600
-戈	quaⓥ 戈㐌吶貝部 Qua đã nói với bậu；ⓗ 干戈 can qua ※𡨸翻音	8700
-比	biⓥ 分比 phan bi, 𬧺比 so bi, 推比 suy bi	226300
-比	biⓗ 渃比 nuoc Bi, 𥾽比 ben bi	193200
-比	tiⓗ 比丘 ti kheo	460700
-比	tiⓗ 比對 ti doi, 比例 ti le, 比喻 ti du	36600
-比	tiⓗ 推比 suy ti	148500
+戈	quaⓥ 戈㐌吶貝部 qua đã nói với bậu；ⓗ 干戈 can qua ※𡨸翻音	8700
+比	biⓥ 分比 phân bì, 𬧺比 so bì, 推比 suy bì；ⓗ 渃比 nuoc Bỉ, 𥾽比 bền bỉ	226300
+比	tiⓗ 比丘 tì kheo；比對 tỉ đối, 比例 tỉ lệ；推比 suy tị	460700
 互	hoⓗ 互助 ho tro, 相互 tuong ho	99500
 切	sietⓥ 切𬘋 siet chat, 𫫣切 ren siet	241600
 切	thietⓗ 親切 than thiet, 痛切 thong thiet, 切他 thiet tha	47000
-止	chiⓗ 禁止 cam chi, 舉止 cu chi	5400
-少	thieuⓗ 少女 thieu nu, 年少 nien thieu, 缺少 khuyet thieu	62800
-少	thieuⓗ 少數 thieu so, 減少 giam thieu, 最少 toi thieu	148500
-日	nhatⓗ 日記 nhat ki, 及日 cap nhat, 隔日 cach nhat ※𡨸翻音	46500
+止	chiⓗ 禁止 cấm chỉ, 舉止 cử chỉ	5400
+少	thieuⓗ 少女 thiếu nữ, 年少 niên thiếu；少數 thiểu số, 減少 giảm thiểu	148500
+日	nhatⓗ 日記 nhật kí, 及日 cập nhật, 隔日 cách nhật ※𡨸翻音	46500
 日	nhutⓥ ⇔ 日 nhat ※𡨸翻音	395800
 曰	vietⓗ 子曰 Tu viet, 搊曰 Xo-viet	51100
 中	trungⓗ 中部 trung bo, 中心 trung tam	8800
@@ -257,7 +259,7 @@ min_phrase_weight: 0
 月	nguyetⓗ 彈月 dan nguyet, 月報 nguyet bao, 月食 nguyet thuc	276900
 氏	thiⓗ 無名氏 vo danh thi, 阮氏 Nguyen Thi	24200
 欠	khiemⓗ 欠缺 khiem khuyet, 欠雅 khiem nha, 欠聽 khiem thinh	272500
-𧘇	ayⓥ 𠊛𧘇 nguoi ay, 𣅶𧘇 luc ay, 𡀯𧘇 chuyen ay	28900
+𧘇	ayⓥ 𠊛𧘇 nguoi ay, 𣅶𧘇 luc ay, 𡀯𧘇 chuyen ay	395800
 𧘇	iⓥ ⇔ 𧘇 ay	2
 丹	danⓗ 丹田 dan dien, 丹鳳 dan phuong, 丹麥 Dan Mach ※𡨸翻音	155400
 丹	donⓗ 靈丹 linh don, 膏丹 cao don, 紅丹 hong don	54200
@@ -927,7 +929,7 @@ min_phrase_weight: 0
 𠰏	bomⓥ 𠰏彈 bom dan, 揇𠰏 nem bom, 果𠰏 qua bom ※𡨸翻音	97400
 別	bietⓥ 別讀 biet doc, 別條 biet dieu, 曉別 hieu biet	8200
 別	bietⓗ 𠫾別 di biet, 別離 biet li, 別吣 biet tam	42700
-吻	vanⓥ 吻𡀳 van con, 吻𣗓 van chua	12200
+吻	vanⓥ 吻𡀳 van con, 吻𣗓 van chua	375000
 吹	suyⓥ ⇔ 吹 xuy | 鼓吹 co suy	395800
 吹	xueⓥ 𫜵空吹 lam khong xue	303500
 吹	xuiⓥ 吹遣 xui khien	295200
@@ -1059,7 +1061,7 @@ min_phrase_weight: 0
 卵	noanⓗ 卵黃 noan hoang, 卵巢 noan sao	2
 灸	cuuⓗ 針灸 cham cuu, 艾灸 ngai cuu	39500
 刨	baoⓗ 刨楛 bao go, 丐刨 cai bao	82000
-𠓨	vaoⓥ 信𠓨 tin vao, 澦𠓨 dua vao ※𡨸翻音	1900
+𠓨	vaoⓥ 信𠓨 tin vao, 澦𠓨 dua vao ※𡨸翻音	358200
 迎	nghenhⓗ ⇔ 迎 nghinh | 歡迎 hoan nghenh, 恭迎 cung nghenh, 迎接 nghenh tiep ※𡨸翻音	241600
 迎	nghenhⓥ 迎昂 nghenh ngang ※𡨸翻音	2
 系	heⓗ 系統 he thong, 直系 truc he, 母系 mau he	29600
@@ -2711,7 +2713,7 @@ min_phrase_weight: 0
 𠊝	thayⓥ 𠊝𢷮 thay doi, 𠊝𬁒 thay mua	31900
 俳	baiⓗ 俳句 bai cu	36100
 倬	xacⓥ 倬咾 xac lao	423500
-條	dieuⓗ 條尼 dieu nay, 條件 dieu kien, 條約 dieu uoc	10300
+條	dieuⓗ 條尼 dieu nay, 條件 dieu kien, 條約 dieu uoc	460700
 條	tieuⓥ 粿條 hu tieu	375000
 倘	thangⓗ 倘或 thang hoac	395800
 倘	thoangⓥ ⇔ 倘 thoang | 倘倘 thoang thoang	2
@@ -3274,14 +3276,13 @@ min_phrase_weight: 0
 硔	cungⓥ 硔頭 cung dau, 𤙭硔 bo cung	11500
 𥓉	thinhⓥ 𥓉𥘃 thinh linh	262400
 𥒥	daⓥ 𡉕𥒥 hon da, 渃𥒥 nuoc da, 咖啡𥒥 ca phe da	375000
-𥑴	iⓥ 𥑴伌 i ach	282400
-𥑴	iⓥ 𩆢𥑴 am i	295200
+𥑴	iⓥ 𥑴伌 i ach；𩆢𥑴 am i	295200
 硍	canⓥ 硍蹎 can chan, 垓硍 gay can	257200
 匏	bauⓥ 匏𡗶 bau troi, 彈匏 dan bau, 固匏 co bau	64700
 逩	vunⓥ 逩挬 vun vut	319900
 奢	xaⓗ 奢華 xa hoa, 奢望 xa vong ※𡨸翻音	46900
 盔	khoiⓗ 盔甲 khoi giap	204600
-爽	sangⓗ 爽快 sang khoai, 豪爽 hao sang	375000
+爽	sangⓗ 爽快 sang khoai, 豪爽 hao sang	1900
 殍	beoⓥ 薄殍 bac beo	2
 盛	senⓥ 王鴻盛 Vuong Hong Sen	2
 盛	thanhⓗ ⇔ 盛 thinh	262400
@@ -4857,9 +4858,8 @@ min_phrase_weight: 0
 𥇚	ngheⓥ ⇔ 𥇚 ghe	276900
 𠺚	banⓥ 𠺚𡂷 ban khoan	276900
 嗷	ngaoⓥ 嘵嗷 ngheu ngao, 喝嗷 hat ngao	295200
-㗕	gauⓥ 𠾎㗕 tan gau	460700
-㗕	quauⓥ ⇔ 㗕 quau | 㗕㗕 quau quau	2
-㗕	quauⓥ 㗕㗕 quau quau	2
+㗕	gauⓥ 𠾎㗕 tan gau	47400
+㗕	quauⓥ 㗕㗕 quau quau；⇔ 㗕 quau | 㗕㗕 quau quau	2
 𠽋	nucⓥ 𤎏𠽋 nong nuc, 𠽋唭 nuc cuoi	331300
 𥇹	nguoiⓥ 𡥵𥇹 con nguoi	134000
 賊	giacⓥ 軍賊 quan giac, 賊外侵 giac ngoai xam	119000
@@ -5126,7 +5126,7 @@ min_phrase_weight: 0
 𣎊	mayⓥ 籺𣎊 hat may, 𣎊䏧𣎊𬚸 may da may thit	358200
 腦	naoⓗ 動腦 dong nao, 大腦 dai nao, 洗腦 tay nao	186700
 獓	ngaoⓥ 𡥵獓 con ngao, 獓𧋾 ngao op, 忤獓 ngo ngao	343200
-𤠰	gauⓥ 𡥵𤠰 con gau, 𤠰竹 gau truc	47400
+𤠰	gauⓥ 𡥵𤠰 con gau, 𤠰竹 gau truc	460700
 猿	vuonⓥ 𡥵猿 con vuon, 猿𤞺 vuon cao	311400
 鳩	cauⓥ 𪁭鳩 bo cau, 翁鳩 ong cau	42400
 𤠲	khiⓥ 𡥵𤠲 con khi, 𤠲腯 khi dot, 橋𤠲 cau khi	114700
@@ -6174,7 +6174,7 @@ min_phrase_weight: 0
 噴	phunⓥ 噴渃 phun nuoc	252500
 𠽮	deⓥ 𠽮迭 de dat, 𠽮㦃 de sen, 㥋𠽮 e de	214600
 𠿂	xepⓥ 㑲𠿂 nam xep, 𠿂𥼕 xep lep	395800
-𠾷	vaoⓥ 𠶓𠾷 veu vao, 儝𠾷 venh vao, 噅𠾷 vo vao	358200
+𠾷	vaoⓥ 𠶓𠾷 veu vao, 儝𠾷 venh vao, 噅𠾷 vo vao	1900
 噎	nhonⓥ ⇔ 噎 nhot | 噎噎 nhon nhot	2
 噎	nhotⓥ 噎噎 nhon nhot	218000
 噎	ronⓥ ⇔ 噎 rot | 噎噎 ron rot	2
@@ -6431,8 +6431,7 @@ min_phrase_weight: 0
 論	luanⓗ 討論 thao luan, 𠴞論 ban luan	41600
 論	lunⓥ 論僎 lun vun	2
 調	deuⓥ 調憚 deu dan, 調僥 deu nhau, 同調 dong deu	22600
-調	dieuⓗ 調製 dieu che, 調查 dieu tra, 調遣 dieu khien	460700
-調	dieuⓗ 調步 dieu bo, 單調 don dieu, 強調 cuong dieu	143500
+調	dieuⓗ 調製 dieu che, 調查 dieu tra；調步 dieu bo, 單調 don dieu	10300
 諂	xiemⓥ 促諂 xuc xiem	2
 𧩓	hotⓥ 𪀄𧩓 chim hot, 佞𧩓 ninh hot	178600
 諒	langⓥ 諒山 Lang Son	211400
@@ -6970,8 +6969,7 @@ min_phrase_weight: 0
 𤏧	thapⓥ 𤏧畑 thap den, 𤏧香 thap huong, 𤏧𤏬約𢠩 thap sang uoc mo	303500
 熻	hamⓥ ⇔ 熻 hap | 熻熻 ham hap	218000
 熻	hapⓥ 熻𩚵 hap com , 熻熻 ham hap	134000
-𤏬	sangⓥ ⇔ 𤏬 sang | 𤏬𤏬 sang sang	42200
-𤏬	sangⓥ 𣇜𤏬 buoi sang, 𤏬𤍊 sang to, 沖𤏬 trong sang	31800
+𤏬	sangⓥ 𣇜𤏬 buoi sang, 𤏬𤍊 sang to, 沖𤏬 trong sang；⇔ 𤏬 sang | 𤏬𤏬 sang sáng 375000
 燃	nhenⓥ 燃焒 nhen lua, 𡮈燃 nho nhen, 䋦情㵋燃 moi tinh moi nhen	343200
 燃	nhienⓗ 燃料 nhien lieu	19800
 燐	lanⓗ 燐晶 lan tinh, 燐光 lan quang, 糞燐 phan lan	176900
@@ -7166,7 +7164,7 @@ min_phrase_weight: 0
 𡁵	khanⓥ ⇔ 𡁵 khan | 𡁵𡁵 khan khan	74100
 𡁵	khanⓥ 𡁵𡁵 khan khan	2
 嚈	omⓥ 嚈唹 om o	2
-曖	ayⓥ 曖𢖱 ay nay, 𦹯曖𣈖斜 co ay bong ta	395800
+曖	ayⓥ 曖𢖱 ay nay, 𦹯曖𣈖斜 co ay bong ta	28900
 𡁧	toangⓥ 吶𡁧 noi toang, 囉𡁧 la toang, 𠯽𡁧𪥘󠄁𬨠 chui toang ca len	358200
 𣋚	homⓥ 𣋚𫢩 hom nay, 𣊿𣋚 chieu hom, 𣋚過 hom qua ※𡨸翻音	20700
 嚅	nhoeⓥ ⇔ 嚅 nhoe | 嚅嚅 nhoe nhoe	2
@@ -7455,8 +7453,7 @@ min_phrase_weight: 0
 𣞁	vangⓥ 𣘃𣞁 cay vang	121700
 𣟂	khuonⓥ 摺𣟂 rap khuon, 𣟂㑄 khuon mau	153900
 檳	tanⓗ 檳榔 tan lang	70100
-轉	chuyenⓗ 轉艔 chuyen do, 轉𢒎 chuyen bay, 轉車 chuyen xe	93100
-轉	chuyenⓗ 移轉 di chuyen, 銓轉 thuyen chuyen, 轉動 chuyen dong	56200
+轉	chuyenⓗ 轉艔 chuyen do, 轉𢒎 chuyen bay；移轉 di chuyen, 銓轉 thuyen chuyen	93100
 轆	rocⓥ 轆轆 rong roc	460700
 轆	rongⓥ ⇔ 轆 roc | 轆轆 rong roc	295200
 覆	phucⓗ 覆審 phuc tham, 覆案 phuc an	82500
@@ -8474,8 +8471,7 @@ min_phrase_weight: 0
 𪵤	gaⓥ 瓶𪵤 binh ga	233700
 𪵫	rucⓥ 𪵫𪵫 rung ruc	423500
 𪵫	rungⓥ ⇔ 𪵫 ruc | 𪵫𪵫 rung ruc	331300
-𪶋	diuⓥ ⇔ 𪶋 diu | 𪶋𪶋 diu diu	311400
-𪶋	diuⓥ 淹𪶋 em diu, 𪶋揚 diu dang, 捘𪶋 xoa diu ※𡨸翻音	171600
+𪶋	diuⓥ 淹𪶋 em diu, 𪶋揚 diu dang, 捘𪶋 xoa diu；⇔ 𪶋 diu | 𪶋𪶋 diu diu ※𡨸翻音	311400
 𪶎	gieoⓥ 𪶎𢳯 gieo rac ※𡨸翻音	200800
 𪷄	thonⓥ ⇔ 𪷄 thot | 𪷄𪷄 thon thot	358200
 𪷄	thotⓥ 𬉊𪷄 thanh thot	343200
@@ -8642,7 +8638,7 @@ min_phrase_weight: 0
 𬏩	lietⓥ 痺𬏩 te liet, 敗𬏩 bai liet	99000
 𬏽	maiⓥ 𬏽篾 mai miet, 𬏽迷 mai me	185000
 𬐸	luaⓥ 𬐸倒 lua dao, 打𬐸 danh lua, 𬐸漉 lua loc	107800
-𬑰	vanⓥ 𬑰𨄠 van tat	375000
+𬑰	vanⓥ 𬑰𨄠 van tat	12200
 𬓐	treⓥ 𬓐𣇞 tre gio, 踸𬓐 cham tre	223900
 𬓰	raⓥ 稴𬓰 rom ra, 𣩂如㧴𬓰 chet nhu nga ra, 𡥵𬓰 con ra	358200
 𬔽	manhⓥ 𬔽𥉯 manh khoe, 𬔽𭇶 manh loi	395800
@@ -11555,6 +11551,7 @@ min_phrase_weight: 0
 轉化	chuyen hoa	768
 轉向	chuyen huong	1202
 專科	chuyen khoa	563
+轉瀾	chuyen lan	2
 轉𨉟	chuyen minh	510
 專門	chuyen mon	2
 專目	chuyen muc	917
@@ -11653,13 +11650,14 @@ min_phrase_weight: 0
 古敬	co kinh	2
 𪂲𪫦	co la	2
 𦹯蘿	co la	2
+𦹯𨓐	co la	2
 孤立	co lap	2
 𦹯𦰤	co lau	2
 旗𦰤	co lau	2
 固𨤰	co le	2
 𩚩𢚸	co long	2
 固諒對貝𠊛悔纇	co luong doi voi nguoi hoi loi	2
-其𦓡	co ma	981
+𠼻𦓡	co ma	981
 幾萬	co man	2
 固𦛿	co mang	2
 固𩈘	co mat	14258
@@ -12301,6 +12299,7 @@ min_phrase_weight: 0
 沲洟	da duoi	2
 㐌近	da gan	2
 夜曲	da khuc	2
+㐌𱺵	da la	2
 多樂	da lat	2
 多禮	da le	2
 野蠻	da man	2
@@ -12573,6 +12572,7 @@ min_phrase_weight: 0
 當欺	dang khi	2
 登記	dang ki	2
 滕其	dang kia	2
+當𱺵	dang la	2
 當𫜵	dang lam	2
 當𨤰	dang le	1600
 滕𱜢	dang nao	2
@@ -13190,11 +13190,14 @@ min_phrase_weight: 0
 調製	dieu che	2
 調整	dieu chinh	2
 調停	dieu dinh	2
+調度	dieu do	2
+條妬	dieu do	2
 𫁵炶	dieu dom	2
 調動	dieu dong	1481
 凋𨅸	dieu dung	2
 遶行	dieu hanh	2
 調行	dieu hanh	8339
+調向	dieu huong	2
 妙計	dieu ke	2
 雕刻	dieu khac	2
 調遣	dieu khien	2
@@ -13672,6 +13675,7 @@ min_phrase_weight: 0
 荼肮	dua khang	2
 荼𤹪	dua khu	2
 荼梨	dua le	2
+椰焒	dua lua	2
 迻眜	dua mat	1042
 諛佞	dua ninh	2
 𠀲於	dua o	2
@@ -14838,6 +14842,7 @@ min_phrase_weight: 0
 糊塗	ho do	2
 𣱆杜	ho do	2
 𣱆尹	ho doan	2
+胡德福	ho duc phoc	2
 𣱆諸葛	ho gia cat	2
 𣱆郝	ho hac	2
 汻𡎟	ho hang	2
@@ -14941,6 +14946,8 @@ min_phrase_weight: 0
 花𢬣	hoa tay	2
 化石	hoa thach	2
 華盛頓	hoa thinh don	767
+花𦹳	hoa thom	2
+花𦹳𦹯𨓐	hoa thom co la	2
 和尚	hoa thuong	1540
 火速	hoa toc	2
 化粧	hoa trang	2
@@ -15084,7 +15091,7 @@ min_phrase_weight: 0
 會員	hoi vien	2075
 回春	hoi xuan	2
 會意	hoi y	2
-𣋚𧘇	om ay	2
+𣋚𧘇	hom ay	2
 𣋚妬	hom do	2
 𣋚蒂	hom day	2
 𩩿嫌	hom hem	2
@@ -15478,6 +15485,7 @@ min_phrase_weight: 0
 楷書	khai thu	2
 開展	khai trien	977
 開除	khai tru	651
+開張	khai truong	2
 勘度	kham dac	2
 撳可	kham kha	2
 㘛㘛	kham kham	2
@@ -18562,6 +18570,8 @@ min_phrase_weight: 0
 入定	nhap dinh	623
 入學	nhap hoc	417
 入口	nhap khau	2
+入瀾	nhap lan	2
+入漏	nhap lau	2
 入殮	nhap liem	2
 扖𠰘	nhap mieng	2
 入伍	nhap ngu	2
@@ -19775,10 +19785,13 @@ min_phrase_weight: 0
 過𠁀	qua doi	5457
 過𡑖	qua doi	2
 果𦼥	qua dua	2
+果椰	qua dua	2
+果荼	qua dua	2
 果紅	qua hong	2
 過激	qua khich	1159
 過去	qua khu	2
 果𱺵	qua la	5058
+過𱺵	qua la	2
 過徠	qua lai	2726
 過𡗋	qua lam	2
 果梨	qua le	2
@@ -20593,6 +20606,7 @@ min_phrase_weight: 0
 醝車	say xe	2
 𤉖䏧	se da	2
 仕𫡠	se mai	2
+仕𱺵	se la	2
 茌茌	se se	2
 仕仕	se se	2
 𣞶𩅙	sen sam	2
@@ -20844,6 +20858,7 @@ min_phrase_weight: 0
 率電動	suat dien dong	2
 飭押	suc ep	2878
 槒紙	suc giay	2
+飭劸	suc khoe	2
 飭勞動	suc lao dong	698
 飭力	suc luc	2
 飭猛	suc manh	2
@@ -20855,6 +20870,7 @@ min_phrase_weight: 0
 畜牲	suc sinh	2
 飭𤯩	suc song	2055
 蓄積	suc tich	2
+飭𪽳	suc yeu	2
 㵽渤	sui bot	2
 𡢽家	sui gia	2
 侺合	sum hop	2
@@ -20959,6 +20975,7 @@ min_phrase_weight: 0
 作風	tac phong	807
 則嗤	tac xi	2
 剒別	tach biet	1240
+剒瀾	tach lan	2
 碏茶	tach tra	2
 才𠀧	tai ba	1148
 再版	tai ban	2
@@ -21538,9 +21555,12 @@ min_phrase_weight: 0
 聖歌	thanh ca	2
 城古	thanh co	2
 成功	thanh cong	30080
+錆工具	thanh cong cu	2
 聲名	thanh danh	2
 成達	thanh dat	1946
 聖地	thanh dia	1094
+聲調	thanh dieu	2
+錆調向	thanh dieu huong	2
 聖堂	thanh duong	944
 聖架	thanh gia	1888
 聖賢	thanh hien	608
@@ -24552,6 +24572,7 @@ min_phrase_weight: 0
 扠𠬃	xoa bo	2
 捘𢯒	xoa bop	2
 扠𠫾	xoa di	2
+扠𪶋	xoa diu	2
 扠𥉹	xoa nhoa	2
 撦𩯀	xoa toc	2
 撦𬺗	xoa xuong	2
@@ -30510,6 +30531,781 @@ ag	Ag	1
 ba	Ba	1
 hg	Hg	1
 pb	Pb	1
+○	dung	1
+✓	dung	1
+×	sai	1
+✓	tich	1
+☑	tich	1
+☐	tich	1
+☒	tich	1
+✅	tich	1
+✔	tich	1
+※	sao	1
+★	sao	1
+☆	sao	1
+＊	sao	1
+⁂	sao	1
+⁑	sao	1
+✳	sao	1
+✴	sao	1
+☄	sao	1
+⇨	phai	1
+→	phai	1
+☞	phai	1
+㊨	phai	1
+👉	phai	1
+㊧	trai	1
+←	trai	1
+⇦	trai	1
+☜	trai	1
+👈	trai	1
+㊦	duoi	1
+↓	duoi	1
+☟	duoi	1
+⇩	duoi	1
+👇	duoi	1
+↑	tren	1
+㊤	tren	1
+☝	tren	1
+⇧	tren	1
+👆	tren	1
+㊦	xuong	1
+↓	xuong	1
+☟	xuong	1
+⇩	xuong	1
+👇	xuong	1
+↑	len	1
+㊤	len	1
+☝	len	1
+⇧	len	1
+👆	len	1
+⇔	trai phai	1
+↔	trai phai	1
+😂	mat	1
+😍	mat	1
+😊	mat	1
+😭	mat	1
+😘	mat	1
+😅	mat	1
+😢	mat	1
+🤔	mat	1
+😆	mat	1
+🙄	mat	1
+😉	mat	1
+☺️	mat	1
+🤗	mat	1
+🤗	om	1
+😔	mat	1
+😔	buon	1
+😎	mat	1
+😎	deo kinh	1
+😎	kinh	1
+😇	mat	1
+😇	thien than	1
+🤦	mat	1
+😱	mat	1
+😱	hoang hot	1
+😱	hot hoang	1
+😌	mat	1
+😋	mat	1
+😋	the luoi	1
+😏	mat	1
+😏	nhin deu	1
+🙂	mat	1
+😄	mat	1
+😄	ha ha	1
+😃	mat	1
+😒	mat	1
+😒	luom	1
+🤭	mat	1
+🤭	che mieng	1
+😜	mat	1
+😜	the luoi	1
+😜	leu leu	1
+😪	mat	1
+😑	mat	1
+😞	mat	1
+😩	mat	1
+😡	mat	1
+😡	tuc	1
+😡	gian	1
+☀️	mat troi	1
+😥	mat	1
+🤤	mat	1
+😳	mat	1
+😚	mat	1
+😝	mat	1
+😴	mat	1
+😬	mat	1
+🙃	mat	1
+😻	mat	1
+😓	mat	1
+😈	mat	1
+😈	quy	1
+😈	con quy	1
+😣	mat	1
+😣	nhan mat	1
+☹️	mat	1
+☹️	buon	1
+😠	mat	1
+😠	tuc	1
+😠	gian	1
+😕	mat	1
+😕	suy ngam	1
+😂	cuoi	1
+😍	cuoi	1
+🤣	cuoi	1
+😊	cuoi	1
+😅	cuoi	1
+😁	cuoi	1
+😆	cuoi	1
+☺️	cuoi	1
+😎	cuoi	1
+😇	cuoi	1
+😏	cuoi	1
+🙂	cuoi	1
+🤩	cuoi	1
+😄	cuoi	1
+😀	cuoi	1
+😃	cuoi	1
+🤭	cuoi	1
+🤪	cuoi	1
+😻	cuoi	1
+😈	cuoi	1
+😂	nuoc mat	1
+😂	ha ha	1
+❤️	tim	1
+😍	tim	1
+💕	tim	1
+💔	tim	1
+💖	tim	1
+💞	tim	1
+❣️	tim	1
+😻	tim	1
+💘	tim	1
+🙏	tay	1
+👍	tay	1
+👏	tay	1
+💪	tay	1
+👌	tay	1
+🤦	tay	1
+✌️	tay	1
+🙌	tay	1
+🙈	tay	1
+🤭	tay	1
+🙋	tay	1
+👊	tay	1
+👉	tay	1
+✋	tay	1
+🤘	tay	1
+☝️	tay	1
+😭	khoc	1
+😢	khoc	1
+😭	hu hu	1
+😢	hu hu	1
+😘	hon	1
+💋	hon	1
+😚	hon	1
+👨‍❤️‍💋‍👨	hon	1
+😗	hon	1
+😙	hon	1
+😽	hon	1
+👩‍❤️‍💋‍👩	hon	1
+💏	hon	1
+🔥	lua	1
+🌹	hoa	1
+🌸	hoa	1
+🌷	hoa	1
+💐	hoa	1
+🎊	hoa	1
+🌺	hoa	1
+🎉	ban sung	1
+🎉	ban phao	1
+✨	sao	1
+🤩	sao	1
+🌟	sao	1
+⭐	sao	1
+🤷	nhun vai	1
+💯	dong y	1
+💯	tram	1
+👇	tay	1
+🎶	nhac	1
+❗	dau	1
+✅	dau	1
+✔️	dau	1
+✅	duoc	1
+✔️	duoc	1
+🙄	mat	1
+😉	mat	1
+😉	nhay mat	1
+🤩	mat	1
+🙈	mat	1
+👀	mat	1
+🤪	mat	1
+🤪	leu leu	1
+😻	meo	1
+🍀	co	1
+💥	va cham	1
+💥	bum	1
+💥	boom	1
+💃	khieu vu	1
+💃	nhay 	1
+🌈	cau vong	1
+😅	mo hoi	1
+😓	mo hoi	1
+💦	mo hoi	1
+🏃	chay	1
+♡	yeu	1
+💛	yeu	1
+❤	yeu	1
+💘	yeu	1
+🥰	yeu	1
+🇪🇬	ai cap	1
+🇮🇳	an do	1
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	anh	1
+🇬🇧	anh quoc	1
+🇬🇧	vuong quoc anh	1
+🇦🇹	ao	1
+🇵🇱	ba lan	1
+🇧🇪	bi	1
+🇵🇹	bo dao nha	1
+🇦🇪	cac tieu vuong quoc a rap thong nhat	1
+🇨🇮	bo bien nga	1
+🇰🇷	dai han dan quoc	1
+🇰🇷	han quoc	1
+🇩🇰	dan mach	1
+🇩🇪	duc	1
+🇬🇶	ghi ne xich dao	1
+🇳🇱	ha lan	1
+🇺🇸	hoa ki	1
+🇺🇸	mi	1
+🇬🇷	hy lap	1
+🇮🇹	y	1
+🇱🇦	lao	1
+🇲🇲	mien dien	1
+🇲🇳	mong co	1
+🇳🇴	na uy	1
+🇿🇦	nam phi	1
+🇷🇺	nga	1
+🇯🇵	nhat ban	1
+🇦🇺	uc	1
+🇫🇮	phan lan	1
+🇫🇷	phap	1
+🇨🇿	sec	1
+🇨🇾	sip	1
+🇪🇸	tay ban nha	1
+🇹🇭	thai lan	1
+🇹🇷	tho nhi ki	1
+🇸🇪	thuy dien	1
+🇨🇭	thuy si	1
+🇹🇱	dong ti mo	1
+🇰🇵	trieu tien	1
+🇨🇳	trung hoa	1
+🇨🇳	trung quoc	1
+🇨🇫	trung phi	1
+🇨🇽	giang sinh	1
+🇭🇰	huong cang	1
+🇮🇴	lanh tho an do duong thuoc anh	1
+🇲🇴	ao mon	1
+🇹🇼	dai loan	1
+🇹🇼	trung hoa dan quoc	1
+🇺🇲	cac tieu dao xa cua hoa ki	1
+🇺🇳	lien hiep quoc	1
+🇺🇳	lien hop quoc	1
+🇻🇳	viet nam	1
+🇸🇦	a rap xe ut	1
+🇧🇦	bo xo ni a va hec de go vi na	1
+🇧🇷	bo ra xin	1
+🇧🇷	bo ra din	1
+🇧🇳	bo ru nay	1
+🇰🇿	ca dac xo tan	1
+🇰🇭	cam bu chia	1
+🇨🇬	cong go bra da vi le	1
+🇨🇷	cot xo ta ri ca	1
+🇭🇷	co ro a ti a	1
+🇰🇬	cu ro gu do xo tan	1
+🇪🇹	e ti o bi a	1
+🇪🇪	e xo to ni a	1
+🇬🇪	go ru di a	1
+🇬🇾	gai a na	1
+🇮🇱	i xo ra en	1
+🇲🇬	ma da gat xo ca	1
+🇫🇲	mai co ro ne xi a	1
+🇳🇵	ne ban	1
+🇳🇵	ne pan	1
+🇦🇺	o xo tray li a	1
+🇵🇰	ba ki xo tan	1
+🇵🇼	ba lau	1
+🇵🇸	ba le xo tin	1
+🇵🇦	ba na ma	1
+🇵🇬	ba bua niu ghi ne	1
+🇵🇾	ba ra quay	1
+🇵🇪	be ru	1
+🇵🇭	phi lip bin	1
+🇹🇩	tchad	1
+🇹🇯	tat gi ki xo tan	1
+🇹🇱	ti mo le xo te	1
+🇹🇲	tuoc me ni xo tan	1
+🇺🇦	u co rai na	1
+🇺🇾	u ru quay	1
+🇻🇨	xanh vin xen va go re na din	1
+🇸🇹	xao to me va bo rin xi pe	1
+🇸🇬	xinh ga bo	1
+🇸🇰	xo lo va ki a	1
+🇸🇮	xo lo ven ni a	1
+🇱🇰	xo ri lan ca	1
+🇬🇫	quy an thuoc phap	1
+🇬🇮	gi bo ran ta	1
+🇬🇱	go ron len	1
+🇬🇸	nam gioc va nam xang ich	1
+🇭🇲	hech va mac do nan	1
+🇲🇶	mac ti nich	1
+🇵🇲	xan bi e va mich lon	1
+🇵🇳	bit ke en	1
+🇵🇷	bu ec to ri co	1
+🇸🇯	xo van bac va i an mai en	1
+🇹🇦	tri xo tan da cu nha	1
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	xo cot len	1
+🇦🇷	ac hen ti na	1
+🇦🇲	ac me ni a	1
+🇦🇿	a dec bai gian	1
+🇮🇪	ai len	1
+🇮🇸	ai xo len	1
+🇦🇱	an ba ni	1
+🇦🇩	an do ra	1
+🇦🇴	ang go la	1
+🇩🇿	an gie ri	1
+🇦🇫	ap ga ni xo tan	1
+🇸🇦	a rap xe ut	1
+🇧🇧	bac ba dot	1
+🇧🇩	bang la det	1
+🇧🇭	ba ranh	1
+🇧🇾	be la rut	1
+🇧🇿	be li xe	1
+🇧🇯	be nanh	1
+🇧🇴	bo li vi a	1
+🇧🇼	bot xoa na	1
+🇧🇦	bo xo ni a va hec de go vi na	1
+🇧🇷	bo ra xin	1
+🇧🇳	bo ru nay	1
+🇧🇬	bun ga ri	1
+🇧🇫	buoc ki na pha xo	1
+🇧🇮	bu run di	1
+🇧🇹	bu tan	1
+🇰🇿	ca dac xo tan	1
+🇨🇲	ca mo run	1
+🇰🇭	cam pu chia	1
+🇨🇦	ca na da	1
+🇨🇻	ca bo ve de	1
+🇶🇦	ca ta	1
+🇨🇱	chi le	1
+🇨🇴	co lom bi a	1
+🇨🇩	dan chu cong go	1
+🇨🇩	cong go kin sa xa	1
+🇨🇬	cong go bo ra da vi le	1
+🇨🇬	cong go	1
+🇨🇬	cong hoa cong go	1
+🇰🇼	co oet	1
+🇨🇮	cot di voa	1
+🇨🇷	cot xo ta ri ca	1
+🇭🇷	co ro a ti a	1
+🇨🇺	cu ba	1
+🇰🇬	cu ro gu do xo tan	1
+🇿🇲	dam bi a	1
+🇿🇼	dim ba bu e	1
+🇩🇴	do mi ni ca na	1
+🇪🇨	e cu a do	1
+🇸🇻	en xan va do	1
+🇪🇷	e ri to re a	1
+🇪🇹	e ti o pi a	1
+🇪🇪	e xo to ni a	1
+🇬🇦	ga bong	1
+🇬🇲	gam bi a	1
+🇬🇭	ga na	1
+🇬🇳	ghi ne	1
+🇬🇼	ghi ne bit xao	1
+🇯🇲	gia mai ca	1
+🇯🇲	ha mai ca	1
+🇩🇯	gi bu ti	1
+🇬🇹	goa te ma la	1
+🇬🇩	go re na da	1
+🇬🇪	go ru di a	1
+🇬🇾	guy a na	1
+🇭🇹	ha i ti	1
+🇯🇴	giooc da ni	1
+🇭🇺	hung ga ri	1
+🇮🇩	in do ne xi a	1
+🇮🇶	i rac	1
+🇮🇷	i ran	1
+🇮🇹	i ta li a	1
+🇮🇱	i xo ra en	1
+🇰🇪	ke ni a	1
+🇱🇻	lat vi a	1
+🇱🇸	le xo tho	1
+🇱🇧	li bang	1
+🇱🇾	li bi	1
+🇱🇷	li be ri a	1
+🇱🇮	lit ten xo ten	1
+🇱🇹	lit va	1
+🇱🇺	luc xam bua	1
+🇲🇭	mac san	1
+🇲🇬	ma da gat xo ca	1
+🇫🇲	mai co ro ne xi a	1
+🇫🇲	mai co ro ne di a
+🇲🇾	ma lay xi a	1
+🇲🇾	ma lai xi a	1
+🇲🇱	ma li	1
+🇲🇻	man di vo	1
+🇲🇹	man ta	1
+🇲🇦	ma roc	1
+🇲🇰	bac ma xe do ni a	1
+🇲🇽	me hi co	1
+🇲🇲	mi an ma	1
+🇲🇿	mo dam bich	1
+🇲🇨	mo na co	1
+🇲🇩	mon do va	1
+🇲🇪	mong te ne go ro	1
+🇲🇪	mon te ne go ro	2
+🇲🇷	mo ri ta ni	1
+🇲🇺	mo ri xo	1
+🇳🇦	na mi bi a	1
+🇳🇷	nau ru	1
+🇳🇵	ne pan	1
+🇳🇮	ni ca ra goa	1
+🇳🇪	ni gie	1
+🇳🇬	ni gie ri a	1
+🇳🇿	niu di len	1
+🇳🇿	niu di lan	1
+🇴🇲	o man	1
+🇭🇳	on du rat	1
+🇦🇺	o xto ray li a	1
+🇵🇰	pa ki xo tan	1
+🇵🇼	pa lau	1
+🇵🇸	pa le xtin	1
+🇵🇦	pa na ma	1
+🇵🇬	pa pua niu ghi ne	1
+🇵🇾	pa ra goay	1
+🇵🇪	pe ru	1
+🇫🇯	phi gi	1
+🇵🇭	phi lip pin	1
+🇷🇼	ru an da	1
+🇷🇴	ru ma ni	1
+🇸🇲	san ma ri no	1
+🇹🇩	sat	1
+🇹🇿	tan da ni a	1
+🇹🇯	tat gi ki xo tan	1
+🇹🇱	ti mo le xo te	1
+🇹🇬	to go	1
+🇹🇲	tuoc me ni xo tan	1
+🇹🇳	tuy ni di	1
+🇺🇦	u crai na	1
+🇺🇿	u do be ki xo tan	1
+🇺🇬	u gan da	1
+🇺🇾	u ru goay	1
+🇻🇺	va nu a tu	1
+🇻🇪	ve ne du e la	1
+🇼🇸	xa moa	1
+🇻🇨	xanh vin xen va go re na din	1
+🇸🇹	xao to me va po rin xi pe	1
+🇪🇭	xa ra uy	1
+🇸🇨	xay sen	1
+🇷🇸	xec bi a	1
+🇸🇳	xe ne gan	1
+🇸🇱	xi e ra le on	1
+🇸🇬	xinh ga po	1
+🇸🇾	xi ri	1
+🇸🇧	xo lo mong	1
+🇸🇰	xo lo va ki a	1
+🇸🇮	xo lo ven ni a	1
+🇸🇴	xo ma li	1
+🇱🇰	xri lan ca	1
+🇸🇩	xu dang	1
+🇸🇷	xu ri nam	1
+🇾🇪	y e men	1
+🇦🇨	et xen san	1
+🇦🇬	an ti qua va ba bu da	1
+🇦🇮	an qui la	1
+🇦🇶	nam cuc	1
+🇦🇸	xa mo a thuoc mi	1
+🇦🇼	a ru ba	1
+🇦🇽	a len	1
+🇧🇱	xan ba de le mi	1
+🇧🇲	bo mu da	1
+🇧🇶	ca ri be thuoc ha lan	1
+🇧🇸	ba ha mat	1
+🇧🇻	bu ve	1
+🇨🇨	co cot	1
+🇨🇨	ki linh	1
+🇨🇰	cuc	1
+🇨🇵	co li bo ton	1
+🇨🇼	cu ra xao	1
+🇩🇬	di e go gac xi a	1
+🇩🇲	thinh vuong chung do mi ni ca	1
+🇪🇦	xu ta va me li la	1
+🇪🇺	lien minh chau au	1
+🇪🇺	lien au	1
+🇫🇰	phon len	1
+🇫🇴	pha ro	1
+🇬🇫	guy an thuoc phap	1
+🇬🇬	gu en xi	1
+🇬🇮	gi bo ran ta	1
+🇬🇱	go ron len	1
+🇬🇵	goa de lop	1
+🇬🇸	nam giooc va nam xang uych	1
+🇬🇺	gu am	1
+🇭🇰	hong kong	1
+🇭🇲	hec va mac do nan	1
+🇮🇨	ca na ri	1
+🇮🇲	man	1
+🇯🇪	giec xi	1
+🇰🇮	ki ri ba ti	1
+🇰🇲	co mo rot	1
+🇰🇳	xan kit va ne vit	1
+🇰🇾	cay man	1
+🇱🇨	xan lu xi a	1
+🇲🇫	xan mac tin	1
+🇲🇴	ma cao	1
+🇲🇵	bac ma ri a na	1
+🇲🇶	mac ti nic	1
+🇲🇸	mon xe rat	1
+🇲🇼	ma la uy	1
+🇳🇨	niu ca le do ni a	1
+🇳🇫	noc phon	1
+🇳🇺	niu ay	1
+🇵🇫	bo li ne xi a thuoc phap	1
+🇵🇲	xan bi e va mic lon	1
+🇵🇳	pit ke en	1
+🇵🇷	pu ec to ri co	1
+🇷🇪	ri iu ni an	1
+🇸🇭	xan he le na	1
+🇸🇯	xo van bac va i an mai en	1
+🇸🇸	nam xu dan	1
+🇸🇽	xin mac ten	1
+🇸🇿	e xoa ti ni	1
+🇹🇦	tri xo tan da cu nha	1
+🇹🇨	tuoc va cai cot	1
+🇹🇫	lanh tho phia nam thuoc phap	1
+🇹🇰	to ke lao	1
+🇹🇴	ton ga	1
+🇹🇹	tri ni dat va to ba go	1
+🇹🇻	tu va lu	1
+🇻🇦	thanh va ti can	1
+🇻🇬	vo gin thuoc anh	1
+🇼🇫	oa lit va phu tu na	1
+🇽🇰	co xo vo	1
+🇾🇹	may o te	1
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	xo cot len	1
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	oe on	1
+🇦🇷	ARGENTINA	1
+🇦🇲	ARMENIA	1
+🇦🇿	AZERBAIJAN	1
+🇮🇪	IRELAND	1
+🇮🇸	ICELAND	1
+🇦🇱	ALBANIA	1
+🇦🇩	ANDORRA	1
+🇦🇴	ANGOLA	1
+🇩🇿	ALGERIE	1
+🇦🇫	AFGHANISTAN	1
+🇧🇧	BARBADOS	1
+🇧🇩	BANGLADESH	1
+🇧🇭	BAHRAIN	1
+🇧🇾	BELARUS	1
+🇧🇿	BELIZE	1
+🇧🇯	BENIN	1
+🇧🇴	BOLIVIA	1
+🇧🇼	BOTSWANA	1
+🇧🇦	BOSNIA va HERZEGOVINA	1
+🇧🇷	BRASIL	1
+🇧🇳	BRUNEI	1
+🇧🇬	BULGARIA	1
+🇧🇫	BURKINA FASO	1
+🇧🇮	BURUNDI	1
+🇧🇹	BHUTAN	1
+🇦🇪	UAE	1
+🇰🇿	KAZAKHSTAN	1
+🇨🇲	CAMEROON	1
+🇨🇦	CANADA	1
+🇨🇻	CAPE VERDE	1
+🇨🇻	CABO VERDE	1
+🇶🇦	QATAR	1
+🇨🇱	CHILE	1
+🇨🇴	COLOMBIA	1
+🇨🇩	dan chu CONGO	1
+🇨🇩	CONGO KINSHASA	1
+🇨🇬	CONGO BRAZZAVILLE	1
+🇨🇬	cong hoa CONGO	1
+🇰🇼	KUWAIT	1
+🇨🇮	COTE DIVOIRE	1
+🇨🇷	COSTA RICA	1
+🇭🇷	CROATIA	1
+🇰🇬	KYRGYZSTAN	1
+🇿🇲	ZAMBIA	1
+🇿🇼	ZIMBABWE	1
+🇩🇴	DOMINICA	1
+🇪🇨	ECUADOR	1
+🇸🇻	EL SALVADOR	1
+🇪🇷	ERITREA	1
+🇪🇹	ETHIOPIA	1
+🇪🇪	ESTONIA	1
+🇬🇦	GABON	1
+🇬🇲	GAMBIA	1
+🇬🇭	GHANA	1
+🇬🇳	GUINEA	1
+🇬🇼	GUINEA BISSAU	1
+🇬🇶	GUINEA xich dao	1
+🇯🇲	JAMAICA	1
+🇩🇯	DJIBOUTI	1
+🇬🇹	GUATEMALA	1
+🇬🇩	GRENADA	1
+🇬🇪	GRUZIA	1
+🇬🇾	GUYANA	1
+🇯🇴	JORDAN	1
+🇭🇺	HUNGARY	1
+🇮🇩	INDONESIA	1
+🇮🇶	IRAQ	1
+🇮🇷	IRAN	1
+🇮🇱	ISRAEL	1
+🇰🇪	KENYA	1
+🇱🇻	LATVIA	1
+🇱🇸	LESOTHO	1
+🇱🇧	LIBAN	1
+🇱🇾	LIBYA	1
+🇱🇷	LIBERIA	1
+🇱🇮	LIECHTENSTEIN	1
+🇱🇹	LITVA	1
+🇱🇺	LUXEMBOURG	1
+🇲🇭	MARSHALL	1
+🇲🇬	MADAGASCAR	1
+🇫🇲	MICRONESIA	1
+🇲🇾	MALAYSIA	1
+🇲🇻	MALDIVES	1
+🇲🇹	MALTA	1
+🇲🇦	MAROC	1
+🇲🇰	bac MACEDONIA	1
+🇲🇽	MEXICO	1
+🇲🇲	MYANMAR	1
+🇲🇿	MOZAMBIQUE	1
+🇲🇨	MONACO	1
+🇲🇩	MOLDOVA	1
+🇲🇪	MONTENEGRO	1
+🇲🇷	MAURITANIA	1
+🇲🇺	MAURITIUS	1
+🇳🇦	NAMIBIA	1
+🇳🇷	NAURU	1
+🇳🇵	NEPAL	1
+🇳🇮	NICARAGUA	1
+🇳🇪	NIGER	1
+🇳🇬	NIGERIA	1
+🇳🇿	NEW ZEALAND	1
+🇴🇲	OMAN	1
+🇭🇳	HONDURAS	1
+🇦🇺	AUSTRALIA	1
+🇵🇰	PAKISTAN	1
+🇵🇼	PALAU	1
+🇵🇸	PALESTINE	1
+🇵🇦	PANAMA	1
+🇵🇬	PAPUA NEW GUINEA	1
+🇵🇾	PARAGUAY	1
+🇵🇪	PERU	1
+🇫🇯	FIJI	1
+🇵🇭	PHILIPPINES	1
+🇷🇼	RWANDA	1
+🇷🇴	ROMANIA	1
+🇸🇲	SAN MARINO	1
+🇹🇩	CHAD	1
+🇨🇿	CZECH	1
+🇨🇾	CYPRUS	1
+🇹🇿	TANZANIA	1
+🇹🇯	TAJIKISTAN	1
+🇹🇱	TIMOR LESTE	1
+🇹🇱	dong TIMOR	1
+🇹🇬	TOGO	1
+🇹🇲	TURKMENISTAN	1
+🇹🇳	TUNISIA	1
+🇺🇦	UKRAINA	1
+🇺🇿	UZBEKISTAN	1
+🇺🇾	URUGUAY	1
+🇻🇪	VENEZUELA	1
+🇼🇸	SAMOA	1
+🇻🇨	SAINT VINCENT va GRENADINES	1
+🇸🇹	SAO TOME va PRINCIPE	1
+🇪🇭	SAHRAWI	1
+🇸🇨	SEYCHELLES	1
+🇷🇸	SERBIA	1
+🇸🇳	SENEGAL	1
+🇸🇱	SIERRA LEONE	1
+🇸🇬	SINGAPORE	1
+🇸🇾	SYRIA	1
+🇸🇧	SOLOMON	1
+🇸🇰	SLOVAKIA	1
+🇸🇮	SLOVENIA	1
+🇸🇴	SOMALIA	1
+🇱🇰	SRI LANKA	1
+🇸🇩	SUDAN	1
+🇸🇷	SURINAME	1
+🇾🇪	YEMEN	1
+🇦🇨	ASCENSION	1
+🇦🇬	ANTIGUA va BARBUDA	1
+🇦🇮	ANGUILLA	1
+🇦🇸	SAMOA thuoc mi	1
+🇦🇽	ALAND	1
+🇧🇱	SAINT BARTHELEMY	1
+🇧🇲	BERMUDA	1
+🇧🇸	BAHAMAS	1
+🇧🇻	BOUVET	1
+🇨🇨	COCOS	1
+🇨🇨	KEELING	1
+🇨🇰	COOK	1
+🇨🇵	CLIPPERTON	1
+🇨🇼	CURACAO	1
+🇩🇬	DIEGO GARCIA	1
+🇩🇲	thinh vuong chung DOMINICA	1
+🇪🇦	CEUTA va MELILLA	1
+🇪🇺	EU	1
+🇫🇰	FALKLAND	1
+🇫🇴	FAROE	1
+🇬🇫	GUYANE thuoc phap	1
+🇬🇬	GUERNSEY	1
+🇬🇮	GIBRALTAR	1
+🇬🇱	GREENLAND	1
+🇬🇵	GUADELOUPE	1
+🇬🇸	nam GEORGIA va nam SANDWICH	1
+🇭🇰	HONGKONG	1
+🇭🇲	HEARD va MCDONALD	1
+🇮🇨	CANARY	1
+🇯🇪	JERSEY	1
+🇰🇲	COMOROS	1
+🇰🇳	SAINT KITTS va NEVIS	1
+🇱🇨	SAINT LUCIA	1
+🇲🇫	SAINT MARTIN	1
+🇲🇴	MACAU	1
+🇲🇶	MARTINIQUE	1
+🇲🇸	MONTSERRAT	1
+🇲🇼	MALAWI	1
+🇳🇨	NEW CALEDONIA	1
+🇳🇫	NORFOLK	1
+🇳🇺	NIUE	1
+🇵🇫	POLYNESIA thuoc phap	1
+🇵🇲	SAINT PIERRE va MIQUELON	1
+🇵🇳	PITCAIRN	1
+🇵🇷	PUERTO RICO	1
+🇷🇪	REUNION	1
+🇸🇭	SAINT HELENA	1
+🇸🇯	SVALBARD va JAN MAYEN	1
+🇸🇸	nam SUDAN	1
+🇸🇽	SINT MAARTEN	1
+🇸🇿	ESWATINI	1
+🇹🇦	TRISTAN DA CUNHA	1
+🇹🇨	TURKS va CAICOS	1
+🇹🇰	TOKELAU	1
+🇹🇹	TRINIDAD va TOBAGO	1
+🇻🇬	VIRGIN thuoc anh	1
+🇻🇮	VIRGIN thuoc mi	1
+🇼🇫	WALLIS va FUTUNA	1
+🇽🇰	KOSOVO	1
+🇾🇹	MAYOTTE	1
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	SCOTLAND	1
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	WALES	1
 饮	am× 非標準或空通常	0
 飮	am× 非標準或空通常	0
 𣼩	am× 非標準或空通常	0
