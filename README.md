@@ -12,7 +12,7 @@ However, since **it has been developed recently**, so there are many words that 
 
 So, I hope you all positively give me feedback and suggest words not added yet in order to improve our typing experience.
 
-The latest one is based on Bảng chữ Hán Nôm chuẩn thường dùng (29/06/2023)
+The latest one is based on Bảng chữ Hán Nôm chuẩn thường dùng (29/06/2023) and the latest changes of Weasel Hán Nôm IME.
 
 **HOW TO SET**
 
