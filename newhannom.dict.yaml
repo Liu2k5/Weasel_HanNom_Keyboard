@@ -162,7 +162,7 @@ min_phrase_weight: 0
 丫	aⓥ 丫鬟 a hoàn	2
 丫	nhaⓗ 丫鬟 nha hoàn	88000
 之	chiⓥ ⇔ 之 gì	41700
-之	giⓥ 丐之 cái gì, 空固之 không có gì	14300
+之	giⓥ 丐之 cái gì, 空固之 không có gì	460700
 己	kiⓗ 益己 ích kỉ, 自己 tự kỉ, 知己 tri kỉ	74600
 已	diⓗ 已然 dĩ nhiên, 已往 dĩ vãng, 不得已 bất đắc dĩ	119000
 巳	tiⓗ 𣇞巳 giờ Tí, 乙巳 Ất Tí	148500
@@ -570,7 +570,7 @@ min_phrase_weight: 0
 吊	dieuⓗ 吊文 dieu van	295200
 𠮿	xonⓥ 𠮿嗃 xon xao ※𡨸翻音	266500
 吀	sinⓥ 吀𬿺 sin sit	375000
-吀	xinⓥ 吀嘲 xin chao, 吀纇 xin loi, 咹吀 an xin ※𡨸翻音	34300
+吀	xinⓥ 吀嘲 xin chao, 吀纇 xin loi, 咹吀 an xin ※𡨸翻音	358200
 吃	catⓗ 吃力 cat luc	311400
 吃	khatⓥ 吃啹 khat khu, 吃𢓋 khat khuong	423500
 因	nhanⓗ 因果 nhan qua, 因素 nhan to, 因本 nhan ban	6200
@@ -720,16 +720,14 @@ min_phrase_weight: 0
 𠄧	vaiⓥ 𠬠𠄧 mot vai, 𠄧𠀧 vai ba	56200
 收	thauⓥ ⇔ 收 thu | 收錢 thau tien	295200
 收	thuⓗ 收費 thu phi, 收穫 thu hoach, 收音 thu am	37100
-艸	thauⓥ ⇔ 艸 thau | 艸艸 thau thau	395800
-艸	thauⓥ 𢪏艸 viet thau	358200
+艸	thauⓥ ⇔ 艸 thau | 艸艸 thau thau； 𢪏艸 viet thau	395800
 防	phongⓗ 國防 quoc phong, 防疫 phong dich, 防禦 phong ngua	29300
 丞	thuaⓗ 丞相 thua tuong	117500
 迆	giaⓥ 迆𥽌 gia gao	226300
 奸	gianⓗ 奸嚉 gian doi, 奸巧 gian xao, 奸臣 gian than	23800
 如	nhuⓗ 形如 hinh nhu, 如意 nhu y	423500
 妃	phiⓗ 王妃 vuong phi, 宮妃 cung phi	41800
-好	haoⓥ 好渃 hao nuoc, 好洫 hao huc	262400
-好	haoⓗ 好友 hao huu, 絕好 tuyet hao, 美好 mi hao	145600
+好	haoⓥ 好渃 hao nuoc, 好洫 hao huc； 好友 hao huu, 絕好 tuyet hao	262400
 好	hieuⓗ 好學 hieu hoc, 好客 hieu khach, 好奇 hieu ki	168300
 羽	vuⓗ 𣯡羽 long vu	44900
 牟	mauⓗ 釋迦牟尼 Thich Ca Mau Ni ※𡨸翻音	211400
@@ -1004,10 +1002,8 @@ min_phrase_weight: 0
 佟	dongⓥ 佟𤒘 dong duc, 佟𠊛 dong nguoi, 佟如蜆 dong nhu kien	30200
 住	gioⓥ 佋住 gieo gio	2
 住	troⓥ 茹住 nha tro, 於住 o tro	226300
-住	truⓗ 居住 cu tru, 住貫 tru quan, 住寓 tru ngu	141700
-住	truⓗ 住所 tru so, 住持 tru tri	118200
-位	viⓥ 治位 tri vi, 𠬠位將才 mot vi tuong tai	6700
-位	viⓗ 位置 vi tri, 位勢 vi the, 學位 hoc vi	22100
+住	truⓗ 居住 cu tru, 住貫 tru quan；住所 tru so, 住持 tru tri	118200
+位	viⓥ 治位 tri vi, 𠬠位將才 mot vi tuong tai；ⓗ 位置 vi tri, 位勢 vi the	22100
 伴	banⓗ 伴佊 ban be, 結伴 ket ban, 伴共笠 ban cung lop	460700
 伴	vanⓥ 伴䊷 van chai	135500
 𠇟	huenhⓥ 𠇟荒 huenh hoang	331300
@@ -1017,13 +1013,13 @@ min_phrase_weight: 0
 佛	phatⓗ 德佛 duc Phat, 佛教 Phat giao, 佛祖 Phat to	112200
 㑁	choatⓥ 傈㑁 loat choat	2
 㑁	chutⓥ 𠊛㑁 nguoi Chut	2
-伮	noⓥ 衆伮 chung no	15000
+伮	noⓥ 衆伮 chung no	282400
 伽	giaⓗ 伽藍 gia lam	63300
 佋	gieoⓥ 佋住 gieo gio	2
 佊	beⓥ 佊伴 be ban, 佊黨 be dang	103600
 㑄	mauⓥ 𦎛㑄 guong mau, 㑄𦄀 mau ma, 㑄墨 mau muc	117500
 近	canⓗ 接近 tiep can, 附近 phu can, 親近 than can	423500
-近	ganⓥ 近𨗥 gan gui, 近如 gan nhu, 近低 gan day ※𡨸翻音	26900
+近	ganⓥ 近𨗥 gan gui, 近如 gan nhu, 近低 gan day ※𡨸翻音	303500
 𢓋	khuongⓥ 吃𢓋 khat khuong	2
 役	dichⓗ 役務 dich vu, 勞役 lao dich, 奴役 no dich	43300
 役	viecⓥ 工役 cong viec, 役𫜵 viec lam	6400
@@ -1175,7 +1171,7 @@ min_phrase_weight: 0
 姊	tiⓗ 師姊 su ti, 姊妹 ti muoi	36600
 妨	phuongⓗ 妨害 phuong hai	26100
 妒	doⓗ 妒忌 do ki	249300
-㣽	noⓥ 㣽𱜢 no nao	282400
+㣽	noⓥ 㣽𱜢 no nao	15000
 妑	baⓥ ⇔ 婆𧘇 ba ay	12900
 努	noⓗ 努力 no luc	128500
 刟	xeoⓥ 咜刟 xa xeo	460700
@@ -1200,12 +1196,10 @@ min_phrase_weight: 0
 𢫛	ngoacⓥ 𨁪𢫛夾 dau ngoac kep	331300
 抹	matⓗ 抹殺 mat sat	266500
 長	trangⓗ 長籺 trang hat, 長花 trang hoa, 長樂 trang nhac	155400
-長	truongⓗ 所長 so truong, 長期 truong ki, 長壽 truong tho	9300
-長	truongⓗ 部長 bo truong, 長輩 truong boi, 長成 truong thanh	27300
+長	truongⓗ 部長 bo truong, 長輩 truong boi；所長 so truong, 長期 truong ki, 長壽 truong tho	27300
 𢫚	xaoⓥ 𢫚笀 xao mang	241600
 卦	quaiⓗ 八卦 bat quai	124400
-劸	khoeⓥ 劸猛 khoe manh, 飭劸 suc khoe	95900
-劸	khoeⓥ 劸寬 khoe khoan	2
+劸	khoeⓥ 劸猛 khoe manh, 飭劸 suc khoe；劸寬 khoe khoan	95900
 拑	ghimⓥ 拑𬘋 ghim chat	423500
 𢫈	goⓥ 𢫈𨷯 go cua, 部𢫈 bo go	168300
 𢫈	khoⓥ ⇔ 𢫈 go	2
@@ -1496,8 +1490,7 @@ min_phrase_weight: 0
 使	suⓗ 使用 su dung ※𡨸翻音	43400
 侢	chaiⓥ 凭侢 vung chai	375000
 侟	sonⓥ 侟侟 son son	460700
-例	leⓥ 例𢟔 le thoi	252500
-例	leⓗ 例常 le thuong, 例禁 le cam, 前例 tien le	60100
+例	leⓥ 例𢟔 le thoi；ⓗ 例常 le thuong, 例禁 le cam	252500
 臾	duaⓥ 焰臾 diem dua	22800
 兒	nhiⓗ 兒科 nhi khoa, 兒童 nhi dong, 孤兒 co nhi ※𡨸翻音	145600
 侇	giⓥ 㑲侇 nam gi, 碮𠻅侇𬺗 de bep gi xuong	395800
@@ -1533,7 +1526,7 @@ min_phrase_weight: 0
 彿	photⓥ 彿哺 phot-pho, 𠴊絲彿呧 ro-to-phot-di ※𡨸翻音	2
 彼	biⓗ 彼岸 bi ngan, 彼嗇斯豐 bi sac tu phong	193200
 所	soⓗ 處所 xu so, 所適 so thich, 所以 so di	41400
-所	thuaⓥ 所𬏇 thua ruong	460700
+所	thuaⓥ 所𬏇 thua ruong	99000
 舍	xaⓗ 宿舍 tuc xa, 寒舍 han xa, 站舍 tram xa	167600
 金	kimⓗ 金器 kim khi, 金類 kim loai, 亞金 a kim ※𡨸翻音	57700
 侖	lonⓥ 侖𫣑 lon nhon	460700
@@ -1807,7 +1800,7 @@ min_phrase_weight: 0
 哉	taiⓗ 善哉 thien tai ※𡨸翻音	75400
 𡋂	neⓥ ⇔ 𡋂 nen | 𡋂䌰 ne nep	139300
 𡋂	nenⓥ 𡋂茹 nen nha, 𡋂𡐙 nen dat, 樂𡋂 nhac nen	65800
-𢬧	nenⓥ 𢬧𡐙 nen dat, 𢬧𡲫 nen vai, 𢬧劕 nen chat	395800
+𢬧	nenⓥ 𢬧𡐙 nen dat, 𢬧𡲫 nen vai, 𢬧劕 nen chat	11900
 挺	dinhⓥ 挺度 dinh dac	460700
 括	quatⓗ 概括 khai quat, 總括 tong quat ※𡨸翻音	157400
 拰	dumⓥ 𠻅拰 bep dum	2
@@ -1900,7 +1893,7 @@ min_phrase_weight: 0
 柀	biaⓥ 柀冊 bia sach, 柀𡹃 bia rung	288100
 勃	botⓗ 勃麪 bot mi, 勃𦭷青 bot mau xanh, 蓬勃 bong bot ※𡨸翻音	262400
 軌	quyⓗ 軌道 quy dao	107100
-要	yeuⓗ 要求 yeu cau; 要點 yeu diem, 主要 chu yeu, 重要 trong yeu	35100
+要	yeuⓗ 要求 yeu cau；要點 yeu diem, 主要 chu yeu, 重要 trong yeu	35100
 威	oaiⓗ ⇔ 威 uy | 威衛 oai ve, 威嚴 oai nghiem, 威風 oai phong	249300
 威	uyⓗ 威力 uy luc, 權威 quyen uy, 威名 uy danh ※𡨸翻音	113300
 䢕	totⓥ 𬦮䢕 nhay tot, 𤙭䢕 bo tot, 𧼋䢕𧗱茹 chay tot ve nha	395800
@@ -1960,7 +1953,7 @@ min_phrase_weight: 0
 咵	suaⓥ 𣞶咵 sen sua	2
 咵	suaⓥ 嗾咵 sac sua	460700
 咧	letⓥ 咧𡋾 let bet, 咧𣻂 let set	2
-咦	giⓥ   ※𡨸翻音	460700
+咦	giⓥ   ※𡨸翻音	14300
 昭	chieuⓥ 姑昭 co chieu, 冘昭 dam chieu, 蹎冘跢蹎昭 chan dam da chan chieu	209000
 咥	hiⓥ 吁咥 hu hi, 𠊛叫馭咥 nguoi keu ngua hi	237400
 䟓	dinhⓥ 𨆟䟓 dung dinh	121700
@@ -2147,7 +2140,7 @@ min_phrase_weight: 0
 急	gapⓥ 急𢰽 gap gap, 急捽 gap rut	120700
 急	kipⓥ 懃急 can kip	288100
 訂	dinhⓗ 訂正 dinh chinh, 訂婚 dinh hon, 考訂 khao dinh	257200
-計	keⓗ 列計 liet ke, 計劃 ke hoach; 	keⓥ 計𡀯 ke chuyen	460700
+計	keⓗ 列計 liet ke, 計劃 ke hoach；keⓥ 計𡀯 ke chuyen	460700
 訃	phoⓗ 告訃 cao pho	63900
 哀	aiⓗ 哀怨 ai oan	20300
 亭	dinhⓗ 亭𡌽 dinh dam	24600
@@ -2455,7 +2448,7 @@ min_phrase_weight: 0
 捘	thoaⓥ ⇔ 捘 xoa | 捘粉 thoa phan	423500
 捘	xoaⓥ 捘油 xoa dau	214600
 𡝔	kepⓥ 𡝔喝 kep hat	2
-紥	chetⓥ 𧌂紥 bo chet, 𠬠紥𢬣 mot chet tay	460700
+紥	chetⓥ 𧌂紥 bo chet, 𠬠紥𢬣 mot chet tay	39200
 剘	ghiⓥ 𢯏剘 be ghi	77300
 耿	canhⓥ ⇔ 耿 canh | 耿耿 canh canh	137700
 耿	canhⓥ 耿耿 canh canh	57300
@@ -2653,7 +2646,7 @@ min_phrase_weight: 0
 𠳹	xangⓥ 吶𠳹 noi xang, 擬𠳹 nghi xang, 𫜵𠳹 lam xang	460700
 𠴐	nucⓥ 𠴐𡀡 nuc nich ※𡨸翻音	460700
 唍	hoanⓥ 和唍 hoa hoan	460700
-哰	saoⓥ 在哰 tai sao, 爲哰 vi sao, 𫜵哰 lam sao	23200
+哰	saoⓥ 在哰 tai sao, 爲哰 vi sao, 𫜵哰 lam sao	375000
 哴	rangⓥ 朱哴 cho rang, 哴𱺵 rang la	10200
 𠳾	hanⓥ 𢡠𠳾 chac han, 𠳾脄 han hoi	114100
 唚	xumⓥ 唚汊 xum xoa, 𠽛唚 um xum	2
@@ -2841,32 +2834,31 @@ min_phrase_weight: 0
 准	chunⓥ 侖准 lun chun	2
 𠗤	vangⓥ 𠗤油 vang dau, 𠗤𣷱 vang sua	343200
 座	toaⓗ 座案 toa an, 𠬠座茹樓 mot toa nha lau	62600
-座	toaⓗ 座談 toa dam, 座度 toa do	189000
-症	chungⓗ 症病 chung benh	45900
-疳	camⓗ 病疳 benh cam, 疳㾹 cam sai	100600
-𤵳	bonⓥ 燥𤵳 tao bon	358200
-疴	khaⓗ 沈疴 tram kha	288100
-病	benhⓗ 病疾 benh tat, 病感 benh cam, 病院 benh vien	31200
-病	binhⓥ ⇔ 病 benh	331300
-痁	chamⓥ 病痁 benh cham, 𩈘浽痁 mat noi cham	423500
-疸	donⓥ 疸𢤞 don hen, 𤴬疸 dau don	218000
-疽	thuⓗ 癰疽 ung thu	45500
-㾄	ruⓥ 氍㾄 cu ru	460700
-疾	tatⓗ 病疾 benh tat	160200
-𤵴	sayⓥ 𤼓𤵴 rom say	2
-㽿	cuiⓥ 病㽿 benh cui	423500
-痆	cheⓥ 𠲖痆 e che, 𥘀痆痆 nang che che	423500
-𤵪	seoⓥ 𤵖𤵪 vet seo	343200
+座	toaⓗ 座談 tọa đàm, 座度 tọa độ	189000
+症	chungⓗ 症病 chứng bệnh	45900
+疳	camⓗ 病疳 bệnh cam, 疳㾹 cam sài	100600
+𤵳	bonⓥ 燥𤵳 táo bón	358200
+疴	khaⓗ 沈疴 trầm kha	288100
+病	benhⓗ 病疾 bệnh tật, 病感 bệnh cảm, 病院 bệnh viện	31200
+病	binhⓥ ⇔ 病 bệnh	331300
+痁	chamⓥ 病痁 bệnh chàm, 𩈘浽痁 mặt nổi chàm	423500
+疸	donⓥ 疸𢤞 đớn hèn, 𤴬疸 đau đớn	218000
+疽	thuⓗ 癰疽 ung thư	45500
+㾄	ruⓥ 氍㾄 cù rù	460700
+疾	tatⓗ 病疾 bệnh tật	160200
+𤵴	sayⓥ 𤼓𤵴 rôm sẩy	2
+㽿	cuiⓥ 病㽿 bệnh cùi	423500
+痆	cheⓥ 𠲖痆 ê chề, 𥘀痆痆 nặng chề chề	423500
+𤵪	seoⓥ 𤵖𤵪 vết sẹo	343200
 𤶒󠄁	benⓥ 𫉱𤶒󠄁 lang ben	319900
-𡘯	lonⓥ 𡘯嘮 lon lao, 𫰅𡘯 to lon, 𡘯猛 lon manh	460700
-𡘯	nhonⓥ ⇔ 𡘯 lon	14200
-效	hieuⓗ 功效 cong hieu, 效果 hieu qua, 有效 huu hieu	41800
-唐	duongⓗ 唐突 duong dot, 茹唐 nha Duong	16700
-凋	dieuⓗ 凋殘 dieu tan, 凋𨅸 dieu dung, 凋零 dieu linh	193200
-瓷	suⓥ 𣘊瓷 do su, 鉢瓷 bat su	92800
-𥩤	gaⓥ 𥩤車焒 ga xe lua, 𥩤河內 ga Ha Noi	233700
-站	tramⓗ 站氣象 tram khi tuong, 站舍 tram xa	133500
-站	tramⓥ 站摨站秩 tram tray tram trat	2
+𡘯	lonⓥ 𡘯嘮 lớn lao, 𫰅𡘯 to lớn, 𡘯猛 lớn mạnh	460800
+𡘯	nhonⓥ ⇔ 𡘯 lớn	14200
+效	hieuⓗ 功效 công hiệu, 效果 hiệu quả, 有效 hữu hiệu	41800
+唐	duongⓗ 唐突 đường đột, 茹唐 nhà Đường	16700
+凋	dieuⓗ 凋殘 điêu tàn, 凋𨅸 điêu đứng, 凋零 điêu linh	193200
+瓷	suⓥ 𣘊瓷 đồ sứ, 鉢瓷 bát sứ	92800
+𥩤	gaⓥ 𥩤車焒 ga xe lửa, 𥩤河內 ga Hà Nội	233700
+站	tramⓗ 站氣象 trạm khí tượng, 站舍 trạm xáⓥ；站摨站秩 trậm trầy trậm trật	133500
 剖	phauⓗ 剖術 phau thuat, 解剖 giai phau ※𡨸翻音	185000
 部	bauⓥ 部𨷯 bau cua, 部𠫾共戈 bau di cung qua	2
 部	boⓗ 部分 bo phan, 幹部 can bo, 部樣 bo dang	9800
@@ -2881,12 +2873,10 @@ min_phrase_weight: 0
 粃	teⓥ 𥽌粃 gao te, 𥛭粃 le te	331300
 粉	phanⓗ 粉花 phan hoa, 授粉 thu phan, 粉蠟 phan sap	175300
 𥸷	xoiⓥ 𥸷棘 xoi gac, 生𥸷 sinh xoi, 賒𥸷 xa xoi	230700
-料	lieuⓥ 料𫇿 lieu thuoc, 料量 lieu luong	166400
-料	lieuⓗ 預料 du lieu, 質料 chat lieu, 與料 du lieu	60800
+料	lieuⓥ 料𫇿 lieu thuoc, 料量 lieu luong；ⓗ 預料 du lieu, 質料 chat lieu	166400
 料	liuⓥ 香料 hung-liu	2
 粑	baⓥ 𣷯粑 can ba, 粑𨢇 ba ruou	246400
-益	ichⓥ 餅益 banh ich (it)；ⓗ 益利 ich loi, 益己 ich ki, 公益 cong ich ※𡨸翻音	107100
-益	ichⓥ 𪝼益 inh ich ※𡨸翻音	2
+益	ichⓥ 餅益 banh ich (it)；ⓗ 益利 ich loi, 益己 ich ki；ⓥ 𪝼益 inh ich ※𡨸翻音	107100
 兼	kemⓥ 𠫾兼 di kem, 兼笈 kem cap, 兼蹺 kem theo	153900
 兼	kiemⓗ 兼全 kiem toan, 兼愛 kiem ai, 兼任 kiem nhiem	211400
 朔	socⓗ 朔望 soc vong, 朔風 soc phong, 朔𦝄 Soc Trang ※𡨸翻音	101700
@@ -3045,7 +3035,7 @@ min_phrase_weight: 0
 純	thuanⓗ 純樸 thuan phac, 純粹 thuan tuy, 單純 don thuan	186700
 䊼	cheⓥ 𬘋䊼 chat che	182900
 紗	saⓗ 𡲫紗 vai sa, 紗花 sa hoa, 紗𣹗 sa tron	124400
-𥿀	vitⓥ 𦁽𥿀 vuong vit, 𦄞𥿀 van vit, 𡥵𥿀 con vit ※𡨸翻音	358200
+𥿀	vitⓥ 𦁽𥿀 vuong vit, 𦄞𥿀 van vit, 𡥵𥿀 con vit ※𡨸翻音	122800
 納	napⓗ 容納 dung nap, 接納 tiep nap, 歸納 quy nap	266500
 納	nopⓥ 納𠓨 nop vao, 交納 giao nop, 納𨉟 nop minh ※𡨸翻音	119700
 紒	riaⓥ 邊紒 ben ria, 𨗛紒 chau ria, 外紒 ngoai ria	358200
@@ -3090,7 +3080,7 @@ min_phrase_weight: 0
 𢰥	dayⓥ 囚𢰥 tu day	266500
 𡍚	lamⓥ 𡍚洡 lam loi, 𡍚炭 lam than, 𡍚湓 lam bun	114700
 𡍚	nhamⓥ ⇔ 𡍚 lam	182900
-𢯦	laiⓥ 𢯦㫰 lai lang, 𢯦褠裙𬺗𠬠𥯝 lai gau quan xuong mot dot； ⇔ 𢯦 lai | 𢯦啀 lai nhai	121700
+𢯦	laiⓥ 𢯦㫰 lai lang, 𢯦褠裙𬺗𠬠𥯝 lai gau quan xuong mot dot；⇔ 𢯦 lai | 𢯦啀 lai nhai	121700
 㨂	dongⓥ 㨂𨷯 dong cua, 㨂𢵰 dong gop, 㨂氷 dong bang	61700
 埬	dongⓥ 𡍢埬 go dong	175300
 域	vucⓗ 區域 khu vuc, 領域 linh vuc ※𡨸翻音	45200
@@ -3136,7 +3126,7 @@ min_phrase_weight: 0
 捨	xaⓥ 㵊捨 xoi xa, 捨銃 xa sung, 捨㫰 xa lang ；ⓗ 捨身 xa than	230700
 捦	ghimⓥ 捦𠓨 ghim vao ※𡨸翻音	460700
 掄	lonⓥ ⇔ 掄 luon	2
-掄	luonⓥ 掄攊 luon lach	331300
+掄	luonⓥ 掄攊 luon lach	48400
 採	thaiⓥ 採𬚸 thai thit, 採成𨬋 thai thanh mieng	32800
 採	thoiⓥ ⇔ 採 thai	331300
 授	thoⓥ 擡授 dai tho	147800
@@ -3297,8 +3287,7 @@ min_phrase_weight: 0
 逴	ruocⓥ 逴𠓨 ruoc vao, 逴妯 ruoc dau	230700
 𡖡	nhomⓥ 𡖡𧖱 nhom mau, 𡖡合 nhom hop	460700
 處	xoⓥ 搓處 xoay xo	395800
-處	xuⓗ 出處 xuat xu, 處所 xu so, 遠處 vien xu	127400
-處	xuⓗ 處理 xu li, 處罰 xu phat, 處事 xu su	54700
+處	xuⓗ 出處 xuat xu, 處所 xu so, 遠處 vien xu；處理 xu li, 處罰 xu phat	127400
 雀	chuocⓥ 麻雀 mat chuoc	2
 雀	tuocⓗ 孔雀 khong tuoc, 朱雀 Chu Tuoc	226300
 堂	dangⓗ 堂皇 dang hoang, 天堂 thien dang	186700
@@ -3318,8 +3307,7 @@ min_phrase_weight: 0
 𥆹	ngopⓥ 𥆹𥆹 ngom ngop	2
 䀨	diemⓥ 䀨令 diem lanh	226300
 䀫	hipⓥ 䀫眜 hip mat ※𡨸翻音	395800
-㖭	thomⓥ ⇔ 㖭 thom | 㖭㖭 thom thom	460700
-㖭	thomⓥ 忑㖭 thac thom, 隰㖭 thap thom	423500
+㖭	thomⓥ 忑㖭 thac thom, 隰㖭 thap thom；⇔ 㖭 thom | 㖭㖭 thom thom	460700
 敗	baiⓗ 打敗 danh bai, 敗露 bai lo, 𥟹敗 lui bai	99500
 販	buonⓥ 販𬥓 buon ban, 販轉 buon chuyen	112900
 貶	biemⓗ 褒貶 bao biem, 貶畫 biem hoa	375000
@@ -3359,11 +3347,11 @@ min_phrase_weight: 0
 問	vanⓗ 問題 van de, 學問 hoc van, 問安 van an	29200
 婁	luⓥ 婁苦瀘傴 lu khu lu khu	2
 啢	langⓥ 啢楛 lang go	211400
-啀	nhaiⓥ 啀𩚵 nhai com; ⇔ 啀 nhai | 𢯦啀 lai nhai	423500
+啀	nhaiⓥ 啀𩚵 nhai com；⇔ 啀 nhai | 𢯦啀 lai nhai	423500
 喐	oatⓥ 𡮣喐 be oat ※𡨸翻音	460700
 喐	otⓥ 喐𠮙 ot et	2
 𣇞	gioⓥ 包𣇞 bao gio, 𣇞𥋏 gio giac, 現𣇞 hien gio	16100
-唵	imⓥ 唵𠹃 im ang, 唵𣼽 im lang; ⇔ 唵 im | 唵唵 im im ※𡨸翻音	149400
+唵	imⓥ 唵𠹃 im ang, 唵𣼽 im lang；⇔ 唵 im | 唵唵 im im ※𡨸翻音	149400
 冕	mienⓗ 𢃱冕 mu mien	266500
 晚	muonⓥ 秋晚 thu muon, 晚芒 muon mang	178600
 晚	vanⓗ 晚𣈜 van ngay, 晚役 van viec, 晚年 van nien	246400
@@ -3397,9 +3385,9 @@ min_phrase_weight: 0
 蛇	xaⓗ 蟒蛇 mang xa	186700
 蚾	phiⓥ 𡥵蚾 con phi	41800
 唬	hoⓥ 呼唬 ho ho, 𫻎唬 ham ho	152600
-累	luyⓗ 連累 lien luy, 係累 he luy; 積累 tich luy , 累乘 luy thua；ⓥ 醉累 tuy luy	331300
+累	luyⓗ 連累 lien luy, 係累 he luy；積累 tich luy , 累乘 luy thua；ⓥ 醉累 tuy luy	331300
 𠶤	thoangⓥ 吶𠶤 noi thoang, 嗹𠶤 lien thoang	2
-𠵨	ngayⓥ 𠵨𠵨 ngay ngay, 𠵨哺哺 ngay pho pho; ⇔ 𠵨 ngay | 𠵨𠵨 ngay ngay	319900
+𠵨	ngayⓥ 𠵨𠵨 ngay ngay, 𠵨哺哺 ngay pho pho；⇔ 𠵨 ngay | 𠵨𠵨 ngay ngay	319900
 㖵	guⓥ 㖗㖵 gam gu	303500
 𠵩	quaⓥ 𫏓𠵩 quay qua	2
 𠵩	quoⓥ 𠵩𠻵 quo mang, 𠵩光 quo quang, 𠵩責 quo trach	423500
@@ -3624,7 +3612,7 @@ min_phrase_weight: 0
 祭	teⓗ 祭天 te thien, 祭禮 te le, 祭文 te van	11400
 𧦕	gheⓥ 𧦕𱖗 ghe ngoi, 𧦕斗 ghe dau, 𧦕𩚵 ghe com	113800
 訰	donⓥ 信訰 tin don	178600
-訥	notⓥ 𠼶訥 nan not ※𡨸翻音; 椊訥 thot not, 𫜵訥𠫾 lam not di, 訥圇 not tron ※𡨸翻音	221000
+訥	notⓥ 𠼶訥 nan not ※𡨸翻音；椊訥 thot not, 𫜵訥𠫾 lam not di, 訥圇 not tron ※𡨸翻音	221000
 許	huaⓗ 許婚 hua hon, 𠳒許 loi hua, 許𭉑 hua hen	395800
 䚾	nhamⓥ 信䚾 tin nham, 吶䚾 noi nham, 䚾𡭺 nham nhi	395800
 訛	ngoaⓥ 吶訛 noi ngoa, 刁訛 dieu ngoa	460700
@@ -3653,7 +3641,7 @@ min_phrase_weight: 0
 痊	thuyenⓗ 痊減 thuyen giam	319900
 痕	hanⓥ 䌰痕 nep han, 痕餅車 han banh xe	343200
 痕	nganⓥ 𤵖痕 vet ngan, 痕渃 ngan nuoc	460700
-袞	gonⓥ ⇔ 袞 gon | 袞袞 gon gon; 袞抗 gon gang, 袞技 gon ghe	175300
+袞	gonⓥ ⇔ 袞 gon | 袞袞 gon gon；袞抗 gon gang, 袞技 gon ghe	175300
 𨔊	sotⓥ 𨔊徠 sot lai ※𡨸翻音	153900
 廊	langⓗ 行廊 hanh lang；ⓥ 坂廊 ban lang, 廊𥯎 lang xom	100300
 康	khangⓗ 康強 khang cuong, 康健 khang kien ※𡨸翻音	288100
@@ -3674,8 +3662,8 @@ min_phrase_weight: 0
 羚	linhⓗ 羚羊 linh duong	79900
 羝	deⓥ 𡥵羝 con de, 𤛇羝 chan de, 羝𩮕 de xom	105100
 𠝫	meⓥ 𠿰𠝫 sut me, 鉢𠝫 bat me	226300
-羕	duongⓥ 羕如 duong nhu, 羕𱜢 duong nao; nhuongⓥ ⇔ 羕 duong	185000
-𠦯	nganⓥ  ⇔ 𠦯 ngan | 𠦯𠦯 ngan ngan; 𠦯𨱽 ngan dai, 𠦯哎 ngan ngui, 排𢪏𠦯 bai viet ngan	117500
+羕	duongⓥ 羕如 duong nhu, 羕𱜢 duong nao；nhuongⓥ ⇔ 羕 duong	185000
+𠦯	nganⓥ  ⇔ 𠦯 ngan | 𠦯𠦯 ngan ngan；𠦯𨱽 ngan dai, 𠦯哎 ngan ngui, 排𢪏𠦯 bai viet ngan	117500
 眷	quyenⓗ 家眷 gia quyen, 眷揄 quyen ru	288100
 粘	niemⓗ 粘揭 niem yet, 粘封 niem phong	295200
 粗	soⓥ 粗胒 so se	2
@@ -3774,7 +3762,7 @@ min_phrase_weight: 0
 𢛨	uaⓥ 𢛨適 ua thich	214600
 寇	khauⓗ 草寇 thao khau	181400
 𡨺	giuⓥ 監𡨺 giam giu, 𡨺𥙩 giu lay, 留𡨺 luu giu	44100
-𡨸	chuⓥ 𡨸𢪏 chu viet, 𡨸𡣨 chu cai, 𡨸喃 chu Nom	94900
+𡨸	chuⓥ 𡨸𢪏 chu viet, 𡨸𡣨 chu cai, 𡨸喃 chu Nom	395800
 寅	danⓗ 𣇞寅 gio Dan	86800
 寄	goiⓥ ⇔ 寄 gui | 寄書 goi tho	178600
 寄	guiⓥ 寄書 gui thu, 咹寄㑲𢘾 an gui nam nho, 𣘃尋寄 cay tam gui	70800
@@ -3807,7 +3795,7 @@ min_phrase_weight: 0
 𡥵	conⓥ 𤯰𡥵 de con, 𡥵丐 con cai, 婆𡥵 ba con	460700
 𡥵	conⓥ ⇔ 𡥵 con | 𡥵𡥵 con con	1700
 𡥴	nitⓥ 𡥵𡥴 con nit	252500
-將	tuongⓗ 將來 tuong lai; 將軍 tuong quan, 將領 tuong linh, 將士 tuong si	53500
+將	tuongⓗ 將來 tuong lai；將軍 tuong quan, 將領 tuong linh, 將士 tuong si	53500
 階	giaiⓗ 階段 giai doan, 階級 giai cap , 階調 giai dieu	102400
 陽	duongⓗ 陰陽 am duong, 電陽 dien duong, 夕陽 tich duong	62300
 隅	ngongⓥ 隅蟯 ngong ngoeo	2
@@ -3826,7 +3814,7 @@ min_phrase_weight: 0
 習	tapⓗ 學習 hoc tap, 排習 bai tap, 寔習 thuc tap ※𡨸翻音	39300
 參	samⓗ 人參 nhan sam, 海參 hai sam, 霜參 suong sam	395800
 參	thamⓗ 參加 tham gia, 參考 tham khao, 參戰 tham chien	24400
-貫	quanⓗ 貫錢 quan tien; 一貫 nhat quan, 貫徹 quan triet, 貫串 quan xuyen	89300
+貫	quanⓗ 貫錢 quan tien；一貫 nhat quan, 貫徹 quan triet, 貫串 quan xuyen	89300
 鄉	huongⓗ 圭鄉 que huong, 同鄉 dong huong, 故鄉 co huong	91300
 𥿣	chaoⓥ 抃𥿣 ben chao	460700
 𥿍	khoⓥ 𥿍𡲫 kho vai	86500
@@ -3968,7 +3956,7 @@ min_phrase_weight: 0
 散	tanⓗ 分散 phan tan, 疏散 so tan ※𡨸翻音	137700
 散	tanⓗ 散漫 tan man, 散步 tan bo, 散居 tan cu ※𡨸翻音	163700
 葬	tangⓗ 火葬 hoa tang, 埋葬 mai tang, 安葬 an tang	211400
-𦵄	riengⓥ 榘𦵄 cu rieng	395800
+𦵄	riengⓥ 榘𦵄 cu rieng	54900
 募	moⓗ 招募 chieu mo	133500
 萬	manⓥ 幾萬 co man, 𠬠萬 mot man	197300
 萬	vanⓥ 𨷈萬 muon van, 無萬 vo van	266500
@@ -4137,7 +4125,7 @@ min_phrase_weight: 0
 喕	denⓥ 喕𥉬・𰔫・喈𬰹 Den-let Don De-ro ※𡨸翻音	460700
 𠷀	nonⓥ 𠷀嗎 non mua, 𠷀㝹 non nao	262400
 暀	vangⓥ 𣈚暀 chang vang	2
-㫻	luonⓥ 㫻㫻 luon luon	48400
+㫻	luonⓥ 㫻㫻 luon luon	331300
 遏	atⓥ 𢭹遏 lan at, 㲸遏 uot at, 𡥵遏主 con at chu ※𡨸翻音	423500
 景	canhⓗ 風景 phong canh, 景觀 canh quan, 背景 boi canh	34000
 景	kiengⓥ ⇔ 景 canh	2
@@ -4254,7 +4242,7 @@ min_phrase_weight: 0
 黑	hacⓥ 黑斧 hac bua, 㤚黑 hang hac, 排算黑過 bai toan hac qua；ⓗ 黑素 hac to , 黑煙 hac in, 黑店 hac diem	288100
 圍	vayⓥ 包圍 bao vay, 棋圍 co vay, 圍𨒺 vay quanh	179900
 圍	viⓗ 範圍 pham vi, 周圍 chu vi	51900
-𢧚	nenⓥ 𫜵𢧚 lam nen, 朱𢧚 cho nen, 咹𢧚𫜵𫥨 an nen lam ra	11900
+𢧚	nenⓥ 𫜵𢧚 lam nen, 朱𢧚 cho nen, 咹𢧚𫜵𫥨 an nen lam ra	395800
 無	moⓗ 南無阿彌陀佛 Nam Mo A Di Da Phat	97400
 無	voⓗ 無理 vo li, 無線 vo tuyen, 無定 vo dinh	34600
 掣	xietⓥ 沚掣 chay xiet, 掣包 xiet bao	252500
@@ -4281,7 +4269,7 @@ min_phrase_weight: 0
 筥	raⓥ 咖筥 ca ra	2
 答	dapⓗ 𢪏書答 viet thu dap, 回答 hoi dap, 應答 ung dap ※𡨸翻音	61300
 筋	canⓗ 筋肉 can nhuc	123800
-筋	ganⓥ 筋骨 gan cot, 筋槶 gan guoc	303500
+筋	ganⓥ 筋骨 gan cot, 筋槶 gan guoc	26900
 筍	duanⓗ 黎筍 Le Duan	226300
 𥬮	giangⓥ 𣘃𥬮 cay giang, 橛𥬮 quat giang	67300
 𥭌	tracⓥ 丐𥭌 cai trac	395800
@@ -4699,7 +4687,7 @@ min_phrase_weight: 0
 搝	xoⓥ 搝𭛜 xo xien, 搝蘿𠀧槻 xo la ba que	331300
 塢	oⓥ 塢㹥 o cho, 塢匪 o phi	195000
 𢲐	xeⓥ 𢲐易 xe dich, 𢲐𫥨 xe ra, 𢲐𨁯 xe xich	395800
-𣩂	chetⓥ 𣩂𤯩 chet song, 𣩂𠺷 chet choc	39200
+𣩂	chetⓥ 𣩂𤯩 chet song, 𣩂𠺷 chet choc	460700
 蜇	trietⓥ 𡥵蜇 con triet, 𪘵蜇 rang triet	147300
 𢲛	roⓥ 𢲛𠯇 ro ri, 瞿𢲛 co ro	311400
 𢲥	chamⓥ 𢲥擡𢪷渃 cham dai muc nuoc	375000
@@ -5137,8 +5125,7 @@ min_phrase_weight: 0
 遙	daoⓗ 逍遙 tieu dao	134000
 詧	soatⓥ 檢詧 kiem soat, 詧察 soat xet	105500
 誄	soiⓥ 吶誄 noi soi	460700
-試	thiⓥ 局試 cuoc thi, 𧼋試 chay thi, 科試  khoa thi	19600
-試	thiⓗ 試驗 thi nghiem, 考試 khao thi	72500
+試	thiⓥ 局試 cuoc thi, 𧼋試 chay thi；ⓗ 試驗 thi nghiem, 考試 khao thi	72500
 詩	thiⓗ 詩歌 thi ca, 詩人 thi nhan	19600
 詩	thoⓥ 詩歌 tho ca, 排詩 bai tho, 吟詩 ngam tho	103200
 詰	catⓗ 詰問 cat van	311400
@@ -5476,11 +5463,9 @@ min_phrase_weight: 0
 輕	khinhⓗ 輕蔑 khinh miet, 輕重 khinh trong, 輕功 khinh cong ※𡨸翻音	223900
 𨌘	toaⓥ 𨌘車 toa xe	176900
 𨖇	chuyenⓥ 𨖇𨔾 chuyen cho, 𩐛𨖇 am chuyen	43600
-歌	caⓗ 歌士 ca si, 山歌 son ca, 歌𠿿 ca ngoi	58800
-歌	caⓥ 歌毛 Ca Mau	105500
+歌	caⓗ 歌士 ca si, 山歌 son ca, 歌𠿿 ca ngoi；ⓥ 歌毛 Ca Mau	105500
 遭	taoⓗ 遭遇 tao ngo	123500
-監	giamⓗ 監擒 giam cam, 茹監 nha giam, 監𡨺 giam giu ※𡨸翻音	99500
-監	giamⓗ 監督 giam doc, 監獄 giam nguc, 監察 giam sat ※𡨸翻音	59300
+監	giamⓗ 監擒 giam cam, 茹監 nha giam；監督 giam doc, 監獄 giam nguc ※𡨸翻音	99500
 緊	khanⓗ 緊急 khan cap, 緊張 khan truong	171600
 酷	khocⓗ 酷烈 khoc liet, 殘酷 tan khoc, 枯酷 kho khoc ※𡨸翻音	209000
 𨡉	damⓥ ⇔ 𨡉 giam	375000
@@ -5770,7 +5755,7 @@ min_phrase_weight: 0
 塵	tranⓗ 塵俗 tran tuc, 塵世 tran the, 承塵 thua tran	51000
 彰	chuongⓗ 表彰 bieu chuong	48700
 竭	kietⓗ 竭力 kiet luc, 衰竭 suy kiet, 枯竭 kho kiet	179900
-𥪝	trongⓥ 𥪝外 trong ngoai, 𥪝茹 trong nha	343200
+𥪝	trongⓥ 𥪝外 trong ngoai, 𥪝茹 trong nha	343300
 𣯡	longⓥ 𣯡蘿 long la, 𣯡𪀄 long chim, 球𣯡 cau long	120700
 韶	theoⓥ 韶表 theo beo	2
 韶	thieuⓗ 國韶 quoc thieu, 阮嘉韶 Nguyen Gia Thieu	2
@@ -6688,7 +6673,7 @@ min_phrase_weight: 0
 機	coⓗ 時機 thoi co, 飛機 phi co, 機關 co quan	13500
 輻	bucⓗ 輻射 buc xa	64400
 輯	tapⓗ 編輯員 bien tap vien	39300
-輸	thuaⓥ 勝輸 thang thua, 輸𡓇 thua lo, 輸局 thua cuoc	99000
+輸	thuaⓥ 勝輸 thang thua, 輸𡓇 thua lo, 輸局 thua cuoc	460700
 䡢	benⓥ 車䡢 xe ben, 車載䡢 xe tai ben	319900
 整	chenhⓥ 整莽 chenh mang, 偅整 chong chenh	2
 整	chenhⓥ 整𫏈 chenh choang	2
@@ -6819,7 +6804,7 @@ min_phrase_weight: 0
 頹	doiⓗ 衰頹 suy doi	155400
 頹	toiⓥ 頹弊 toi te	200800
 𥢂	maⓥ 穭𥢂 lua ma	303500
-𥢆	riengⓥ 𥢆私 rieng tu, 𥢆𥘶 rieng re, 𧵑𥢆 cua rieng	54900
+𥢆	riengⓥ 𥢆私 rieng tu, 𥢆𥘶 rieng re, 𧵑𥢆 cua rieng	395800
 勳	huanⓗ 勳章 huan chuong, 勳爵 huan tuoc	395800
 𥱨	roⓥ 𥱨𡂅 ro mom, 𥱨𤞼 ro lon	460700
 篤	docⓗ 惇篤 don doc, 篤症 doc chung ※𡨸翻音	63900
@@ -6855,10 +6840,10 @@ min_phrase_weight: 0
 儝	vanhⓥ 佂儝 tranh vanh, 儝壁 vanh vach ※𡨸翻音	460700
 儝	venhⓥ 佂儝 chenh venh, 儝𠾷 venh vao ※𡨸翻音	266500
 儜	nenhⓥ   ※𡨸翻音	2
-𩿠	vitⓥ 𡥵𩿠 con vit, 𪃿𩿠 ga vit, 信𩿠 tin vit	122800
+𩿠	vitⓥ 𡥵𩿠 con vit, 𪃿𩿠 ga vit, 信𩿠 tin vit	358200
 𪀊	cuⓥ 𪀄𪀊 chim cu, 僶𪀊 thang cu	179900
 鴕	daⓗ 鴕鳥 da dieu	71500
-𤾟	hoⓥ ⇔ 𤾟 ho | 𤾟𤾟 ho ho; 𤾟亨 ho henh	8900
+𤾟	hoⓥ ⇔ 𤾟 ho | 𤾟𤾟 ho ho；𤾟亨 ho henh	8900
 㒙	minⓥ 劫𤯩𫯳㒙𠫾耒 cuop song chong min di roi	375000
 衡	hanhⓗ 權衡 quyen hanh, 玉衡 ngoc hanh	12600
 𦪃	songⓥ 隻𦪃 chiec song	2
@@ -6969,7 +6954,7 @@ min_phrase_weight: 0
 𤏧	thapⓥ 𤏧畑 thap den, 𤏧香 thap huong, 𤏧𤏬約𢠩 thap sang uoc mo	303500
 熻	hamⓥ ⇔ 熻 hap | 熻熻 ham hap	218000
 熻	hapⓥ 熻𩚵 hap com , 熻熻 ham hap	134000
-𤏬	sangⓥ 𣇜𤏬 buoi sang, 𤏬𤍊 sang to, 沖𤏬 trong sang；⇔ 𤏬 sang | 𤏬𤏬 sang sáng 375000
+𤏬	sangⓥ 𣇜𤏬 buoi sang, 𤏬𤍊 sang to, 沖𤏬 trong sang；⇔ 𤏬 sang | 𤏬𤏬 sang sáng	375000
 燃	nhenⓥ 燃焒 nhen lua, 𡮈燃 nho nhen, 䋦情㵋燃 moi tinh moi nhen	343200
 燃	nhienⓗ 燃料 nhien lieu	19800
 燐	lanⓗ 燐晶 lan tinh, 燐光 lan quang, 糞燐 phan lan	176900
@@ -7223,8 +7208,7 @@ min_phrase_weight: 0
 黜	truatⓗ 廢黜 phe truat, 被黜 bi truat	358200
 𩩫	xuongⓥ 𩩫骨 xuong cot, 𤐚𩩫 ham xuong, 𩩫𦘹 xuong suon	111400
 髀	veⓥ 𦠘髀 vai ve	295200
-矯	kieuⓗ 𣱆矯 ho Kieu, 矯順 Kieu Thuan, 矯公罕 Kieu Cong Han	110200
-矯	kieuⓗ 矯格 kieu cach, 矯𡨸 kieu chu, 矯㑄 kieu mau	94900
+矯	kieuⓗ 𣱆矯 ho Kieu, 矯順 Kieu Thuan；矯格 kieu cach, 矯𡨸 kieu chu	110200
 𣰙	quamⓥ ⇔ 𣰙 quam | 𣰙𣰙 quam quam ※𡨸翻音	2
 𣰙	quamⓥ 𪖫𣰙 mui quam ※𡨸翻音	2
 𣱭	bumⓥ 丐𣱭 cai bum	2
@@ -7308,7 +7292,7 @@ min_phrase_weight: 0
 謝	giaⓥ 謝辭 gia tu	226300
 謝	taⓗ 感謝 cam ta, 謝恩 ta on, 謝辭 ta tu	176900
 謠	daoⓗ 歌謠 ca dao, 童謠 dong dao	134000
-謅	saoⓥ 吶謅 noi sao, 搐謅 suc sao	375000
+謅	saoⓥ 吶謅 noi sao, 搐謅 suc sao	23200
 謗	bangⓗ 誹謗 phi bang	460700
 謚	thuyⓗ 𠸜謚 ten thuy, 謚號 thuy hieu	147800
 謙	khiemⓗ 謙讓 khiem nhuong, 謙遜 khiem ton	171600
@@ -7639,7 +7623,7 @@ min_phrase_weight: 0
 瀉	taⓗ 疫瀉 dich ta	130300
 瀋	thamⓥ ⇔ 瀋 tham | 瀋瀋 tham tham ※𡨸翻音	74100
 瀋	thamⓥ 漊瀋 sau tham, 淢瀋 vuc tham, 瀋瀋 tham tham ※𡨸翻音	303500
-𢤠	lenⓥ 惼𢤠 ben len	423500
+𢤠	lenⓥ 惼𢤠 ben len	5600
 𢥉	langⓥ ⇔ 𢥉 nhang | 𢥉悁 lang quen , 嗃𢥉 xao lang	157400
 𢥉	nhangⓥ ⇔ 𢥉 lang | 𢥉悁 nhang quen	2
 𢤞	henⓥ 𪽳𢤞 yeu hen	218000
@@ -8432,7 +8416,7 @@ min_phrase_weight: 0
 𪡗	hanⓥ 𠳨𪡗 hoi han	343200
 𪡱	gaoⓥ 噶𪡱 gat gao	266500
 𪡶	oenⓥ 𪡶呧 Oen-di ※𡨸翻音	2
-𪡷	chuⓥ 㖘𪡷 chan chu	395800
+𪡷	chuⓥ 㖘𪡷 chan chu	94900
 𪡽󠄁	goⓥ 吶𪡽󠄁 noi go, 怪𪡽󠄁 quai go	395800
 𪢊	giongⓥ 𪢊鐘 giong chuong, 𪢊㨋 giong gia	237400
 𪢜	phoⓥ 𪢜𠎩 pho bay, 𪢜㧍 pho phang	311400
@@ -8552,7 +8536,7 @@ min_phrase_weight: 0
 𫜵	lamⓥ 𫜵役 lam viec, 𫜵弄 lam lung	331300
 𫟧	tuenhⓥ 𫟧䢨 tuenh toang	2
 𫡠	maiⓥ 𫡠𫡠 mai mai	72300
-𫢗	xinⓥ 䏧𫢗 da xin, 𫢗𦭷 xin mau, 㤓𫢗 bun xin	358200
+𫢗	xinⓥ 䏧𫢗 da xin, 𫢗𦭷 xin mau, 㤓𫢗 bun xin	34300
 𫢩	nayⓥ 現𫢩 hien nay, 𣋚𫢩 hom nay	11100
 𫣂	giengⓥ 㫰𫣂 lang gieng ※𡨸翻音	193200
 𫣂	gienhⓥ   ※𡨸翻音	2
@@ -8672,7 +8656,7 @@ min_phrase_weight: 0
 𬧐	toiⓥ 𬧐坭 toi noi, 𨆢𬧐 lui toi, 旬𬧐 tuan toi	15200
 𬧕	duoiⓥ 𬧕𣦎 duoi thang, 𬧕蹎 duoi chan	331300
 𬧺	soⓥ 𬧺𠁔 so sanh, 𬧺𠻗 so le	71900
-𬨠	lenⓥ 𬨠𨑗 len tren, 𠫾𬨠 di len, 增𬨠 tang len	5600
+𬨠	lenⓥ 𬨠𨑗 len tren, 𠫾𬨠 di len, 增𬨠 tang len	423500
 𬨢	khapⓥ 𬨢坭 khap noi, 𬨢𡶀𬨢瀧 khap nui khap song ※𡨸翻音	72300
 𬨩	thocⓥ 𧼋𬨩 chay thoc, 𠷀𬨩𠷀𢳥 non thoc non thao	460700
 𬪁	apⓥ 揞𬪁 om ap, 㥋𬪁 e ap	193200
@@ -8774,6 +8758,7 @@ min_phrase_weight: 0
 阿含	a ham	657
 亞金	a kim	2
 阿羅漢	a la han	1009
+阿嚧	a lo	2
 阿難	a nan	2066
 阿魏	a nguy	2
 阿片	a phien	2
@@ -9095,6 +9080,7 @@ min_phrase_weight: 0
 𠀧沛	ba phai	2
 𠀧份四	ba phan tu	2
 伯父	ba phu	2
+𠀧槻	ba que	2
 霸權	ba quyen	739
 婆地	ba ria	2
 婆些頃𡗋固𢴇扡埃兜	ba ta khoanh lam co giup do ai dau	2
@@ -9135,6 +9121,7 @@ min_phrase_weight: 0
 鉑秭	bac ti	2
 北朝	bac trieu	2
 北朝鮮	bac trieu tien	1144
+鉑鐄	bac vang	2
 北越	bac viet	3502
 北越南	bac viet nam	1351
 㕷㕷	bach bach	2
@@ -9223,6 +9210,7 @@ min_phrase_weight: 0
 本領	ban lanh	312
 𬥓𥛭	ban le	1617
 本領	ban linh	2168
+泮𢚸	ban long	2
 𠴞論	ban luan	2
 𢏑𫸶	ban na	2
 本能	ban nang	2319
@@ -9492,6 +9480,8 @@ min_phrase_weight: 0
 保譔	bau chon	1079
 保舉	bau cu	2
 部𨷯	bau cua	2
+匏𧍆	bau cua	2
+匏𧍆𩵜𤜯	bau cua ca cop	2
 部𠫾共戈	bau di cung qua	2
 匏欲	bau duc	2
 匏空氣	bau khong khi	2
@@ -9543,6 +9533,7 @@ min_phrase_weight: 0
 𣷭𣘛	be dau	2
 𢯏對	be doi	2
 梐椰	be dua	2
+陛塘	be duong	2
 𢯏𢭮	be gay	2
 陛下	be ha	2
 佊𬉆󠄁	be lu	2
@@ -10473,16 +10464,20 @@ min_phrase_weight: 0
 𫋙車𤙭	cang xe bo	2
 更博	canh bac	2
 警報	canh bao	2
+𦑃𧊉	canh buom	2
+𦑃帆	canh buom	2
 耿耿	canh canh	2
 警告	canh cao	2101
 莄𣘃	canh cay	2
 莄𣘃倇	canh cay oan	2
+𦑃𪀄	canh chim	2
 羹䣷	canh chua	2
 景𫷨	canh chua	2
 更澄	canh chung	672
 更𨷯	canh cua	2
 羹𧍆蜟	canh cua roc	2
 庚寅	canh dan	2
+𦑃𠺧	canh dieu	2
 𦑃垌	canh dong	2
 𦑃燕𩙳𤥑	canh en lieng vong	2
 更擱	canh gac	2
@@ -10496,6 +10491,7 @@ min_phrase_weight: 0
 莄幡	canh phan	2
 景觀	canh quan	2
 𦑃軍	canh quan	2
+𦑃橛	canh quat	2
 警察	canh sat	2
 羹㤝	canh suong	2
 耕作	canh tac	2
@@ -11072,6 +11068,7 @@ min_phrase_weight: 0
 折率	chiet suat	2
 招安	chieu an	2
 朝高	chieu cao	1653
+詔旨	chieu chi	2
 照之	chieu chi	2
 朝𡮶	chieu chuong	2
 𥴜𧄑	chieu coi	2
@@ -11331,6 +11328,7 @@ min_phrase_weight: 0
 註解	chu giai	2
 注奚	chu he	2
 𡨸漢	chu han	2
+𡨸漢喃	chu han nom	2
 諸侯	chu hau
 𡨸孝	chu hieu	2
 𡨸印𭛜	chu in xien	2
@@ -11403,6 +11401,8 @@ min_phrase_weight: 0
 𣗓得	chua duoc	2
 主支	chua gie	1293
 主支蒭	chua giesu	5134
+𣗓𢭁	chua he	2
+主奚	chua he	2
 媎荒	chua hoang	2
 主𭊫蘇	chua kito	3222
 除𩈘	chua mat	2
@@ -11579,6 +11579,7 @@ min_phrase_weight: 0
 𡀯賒	chuyen xa	2
 轉車	chuyen xe	2
 固咹	co an	401
+姑𧘇	co ay	2
 𦹯曖𣈖斜	co ay bong ta	2
 基本	co ban	2
 𦹯䄱	co bang	2
@@ -11703,6 +11704,7 @@ min_phrase_weight: 0
 瞿銃	co sung	2
 鼓吹	co suy	2
 旗帥	co suy	2
+姑些	co ta	2
 固才	co tai	2
 𦙶𢬣	co tay	2
 𦙶𢬣㛪𡮣脯	co tay em be bu	2
@@ -12314,6 +12316,8 @@ min_phrase_weight: 0
 多方	da phuong	592
 㐌過	da qua	2
 夜光	da quang	2
+㐌慣	da quen	2
+㐌悁	da quen	2
 㖡灡	da ran	2
 柁鉄	da sat	2
 多數	da so	2
@@ -12946,7 +12950,9 @@ min_phrase_weight: 0
 𣎀𣎀	dem dem	449
 𨑻𠫾	dem di	2
 𣎀妬	dem do	2
+𣎀冬	dem dong	2
 墊床	dem giuong	2
+𣎀夏	dem he	2
 𣎀𣋚	dem hom	2
 𣎀其	dem kia	2
 𨑻𢚸	dem long	2
@@ -13508,6 +13514,7 @@ min_phrase_weight: 0
 同𡇐	dong bon	763
 𩘪𪥘󠄁𢆥	dong ca nam	2
 同感	dong cam	1020
+東杲	dong cao	2
 𣳔沚	dong chay	1638
 同志	dong chi	2
 冬至	dong chi	2
@@ -13544,6 +13551,7 @@ min_phrase_weight: 0
 銅壺	dong ho	2
 洞海	dong hoi	2
 同鄉	dong huong	2
+同慶	dong khanh	2
 動口	dong khau	2
 㨂椌	dong khung	377
 東京	dong kinh	333
@@ -13578,6 +13586,7 @@ min_phrase_weight: 0
 東山	dong son	2
 𣳔瀧	dong song	4197
 動作	dong tac	2551
+東早	dong tao	2
 東西	dong tay	2
 動態	dong thai	1441
 同聲	dong thanh	627
@@ -13743,6 +13752,7 @@ min_phrase_weight: 0
 揨𢞃	dung hong	2
 倲向	dung huong	2
 揨哭	dung khoc	2
+倲𱺵	dung la	2
 容量	dung luong	2
 容貌	dung mao	2
 溶媒	dung moi	2
@@ -13791,6 +13801,7 @@ min_phrase_weight: 0
 塘引	duong dan	1646
 當頭	duong dau	2
 塘絏	duong day	2068
+塘𠫾	duong di	2
 唐突	duong dot	2
 養育	duong duc	2
 仗𡒬	duong ghe	2
@@ -13824,6 +13835,8 @@ min_phrase_weight: 0
 塘𣦎	duong thang	742
 楊文明	duong van minh	609
 陽物	duong vat	863
+塘𧗱	duong ve	2
+堂陛	duong ve	2
 塘𧟁	duong vien	2
 塘𧟁憑褳	duong vien bang ren	2
 塘舍	duong xa	570
@@ -13892,6 +13905,9 @@ min_phrase_weight: 0
 𪃿𥊚	ga mo	2
 𪃿𢮿	ga quay	2
 𪃿㹟	ga que	2
+𪃿鴺	ga ri	2
+𪃿些	ga ta	2
+𪃿西	ga tay	2
 𪃿𩿠	ga vit	2
 𥩤車焒	ga xe lua	2
 擱筆	gac but	2
@@ -13912,6 +13928,7 @@ min_phrase_weight: 0
 錦𦄾	gam voc	2
 𮇜抪	gan bo	2
 筋骨	gan cot	2
+筋𦂄	gan dai	2
 𢢈𢢈	gan gan	2
 近近	gan gan	2
 檊𢯖	gan ghep	2
@@ -13923,6 +13940,7 @@ min_phrase_weight: 0
 𮇜結	gan ket	925
 𢭬漉	gan loc	2
 肝𦟽	gan mat	2
+近僥	gan nhau	2
 近如	gan nhu	2
 𮇜貝	gan voi	2
 近貝	gan voi	2
@@ -14804,6 +14822,9 @@ min_phrase_weight: 0
 形影	hinh anh	2
 形𣈖	hinh bong	858
 形球	hinh cau	2
+形照	hinh chieu	2
+形照𧣲	hinh chieu canh	2
+形照𨅸	hinh chieu dung	2
 形𠍵	hinh dang	2
 形樣	hinh dang	2
 形容	hinh dong	2
@@ -14817,6 +14838,7 @@ min_phrase_weight: 0
 刑法	hinh phap	2
 刑事	hinh su	2725
 形成	hinh thanh	2
+形梭	hinh thoi	2
 形殊	hinh thu	601
 形式	hinh thuc	19024
 形圇	hinh tron	742
@@ -14910,6 +14932,7 @@ min_phrase_weight: 0
 花旦	hoa dan	2
 花燈	hoa dang	2
 火藥	hoa duoc	2
+華錦	hoa gam	2
 和解	hoa giai	746
 花紙	hoa giay	2
 和好	hoa hao	2
@@ -14937,6 +14960,7 @@ min_phrase_weight: 0
 華嚴	hoa nghiem	732
 花𦲒	hoa nhai	2
 和入	hoa nhap	570
+花𦬑	hoa no	2
 花果	hoa qua	1118
 花葵	hoa quy	2
 和䊎	hoa quyen	2
@@ -15045,6 +15069,9 @@ min_phrase_weight: 0
 𤸫癋	hoen o	2
 迴音	hoi am	1067
 會安	hoi an	1176
+𠳨㴨	hoi cham	2
+脄蹎	hoi chan	2
+會診	hoi chan	2
 會𢄂	hoi cho	1085
 會症	hoi chung	957
 回𡀳𡮈	hoi con nho	2
@@ -15067,6 +15094,8 @@ min_phrase_weight: 0
 𢝷愒	hoi hot	860
 茴香	hoi huong	2
 悔纇	hoi loi	2
+脄𠰘	hoi mieng	2
+脄腋	hoi nach	2
 會議	hoi nghi	12721
 會晤	hoi ngo	718
 會入	hoi nhap	5073
@@ -15766,6 +15795,8 @@ min_phrase_weight: 0
 空𨁪	khong dau	2
 空得	khong duoc	2
 空間	khong gian	13012
+空𢭁	khong he	2
+空曉	khong hieu	2
 空𫩟	khong kheo	635
 空氣	khong khi	2
 空𨤰	khong le	996
@@ -15958,6 +15989,7 @@ min_phrase_weight: 0
 矯𫇰	kieu cu	2
 矯𠍵	kieu dang	650
 嬌艷	kieu diem	2
+矯之	kieu gi	2
 驕倖	kieu hanh	2
 蕎麥	kieu mach	2
 矯㑄	kieu mau	2
@@ -16247,6 +16279,7 @@ min_phrase_weight: 0
 凌辱	lang nhuc	2
 浪費	lang phi	2
 郎君	lang quan	2
+廊圭	lang que	2
 狼𤢿	lang soi	2
 諒山	lang son	2
 狼藉	lang ta	2
@@ -16376,6 +16409,7 @@ min_phrase_weight: 0
 𦃾塘	le duong	2
 黎維祐	le duy huu	2
 禮會	le hoi	2
+例廊	le lang	2
 厲廊	le lang	2
 𠠍𨀺	le let	2
 𠻗𤑭	le loi	2
@@ -17252,6 +17286,7 @@ min_phrase_weight: 0
 螟蛉	minh linh	2
 明命	minh mang	780
 𨉟𨊋	minh may	2
+明命	minh menh	2
 明珀	minh phach	2
 明星	minh tinh	2
 明哲	minh triet	749
@@ -17914,6 +17949,7 @@ min_phrase_weight: 0
 𣈜𠓀	ngay truoc	3517
 𬆄即刻	ngay tuc khac	605
 𣈜𠸗	ngay xua	2
+乂安	nghe an	2
 𦖑兜	nghe dau	664
 𦖑𦗝	nghe lom	2
 𦖑𠬠㗂𠺻	nghe mot tieng cop	2
@@ -18273,6 +18309,8 @@ min_phrase_weight: 0
 𠊛綀㗂	nguoi xo tieng	2
 𠊛𠸗	nguoi xua	1952
 𠊛㤇	nguoi yeu	5799
+𠊛㤇𫇰	nguoi yeu cu	2
+𠊛㤇㵋	nguoi yeu moi	2
 源檜	nguon coi	456
 源㭲	nguon goc	2
 源力	nguon luc	1941
@@ -18573,6 +18611,7 @@ min_phrase_weight: 0
 入瀾	nhap lan	2
 入漏	nhap lau	2
 入殮	nhap liem	2
+入料	nhap lieu	2
 扖𠰘	nhap mieng	2
 入伍	nhap ngu	2
 入嚷	nhap nhang	2
@@ -18815,6 +18854,8 @@ min_phrase_weight: 0
 軟軟	nhun nhun	2
 䠣𦠘	nhun vai	648
 仍埃	nhung ai	2
+仍𣊿	nhung chieu	2
+仍𣎀	nhung dem	2
 仍仉無義	nhung ke vo nghi	2
 絨𣯡𩿠	nhung long vit	2
 戎𠲕	nhung nhang	2
@@ -18987,6 +19028,7 @@ min_phrase_weight: 0
 吶𫪦	noi tray	2
 內助	noi tro	635
 浽𨊚	noi troi	496
+浽㵢	noi troi	2
 吶幽㐵	noi u o	2
 內務	noi vu	862
 內漨	noi vung	2
@@ -19117,6 +19159,7 @@ min_phrase_weight: 0
 渃瀧空犯渃井	nuoc song khong pham nuoc gieng	2
 渃汰	nuoc thai	2599
 渃小	nuoc tieu	2
+渃㵢	nuoc troi	2
 渃𡗶	nuoc troi	2
 渃囚	nuoc tu	2
 渃醬	nuoc tuong	2
@@ -19384,6 +19427,7 @@ min_phrase_weight: 0
 分散	phan tan	2
 潘切	phan thiet	1106
 份賞	phan thuong	1392
+分析	phan tich	2
 反省	phan tinh	2
 份𤾓	phan tram	2
 紛爭	phan tranh	2
@@ -19488,7 +19532,9 @@ min_phrase_weight: 0
 㗶㗶	phen phet	2
 䉒壁	phen vach	2
 嗙嗙	pheng pheng	2
+法渃	phep nuoc	2
 法則	phep tac	2
+法𤤰	phep vua	2
 𦠱洛	phet lac	2
 漂𠴋	pheu phao	2
 誹謗	phi bang	2
@@ -20389,7 +20435,10 @@ min_phrase_weight: 0
 𨢇𬗂	ruou nep	2
 𨢇㘇	ruou vang	2
 捽刀	rut dao	2
+捽袞	rut gon	2
+捽𠦯	rut ngan	2
 捽軍𧗱據	rut quan ve cu	2
+捽𫥨	rut ra	2
 𢲼𦛌	rut ruot	2
 捽錢	rut tien	2
 蹉機	sa co	2
@@ -21211,6 +21260,7 @@ min_phrase_weight: 0
 造形	tao hinh	897
 造化	tao hoa	357
 早婚	tao hon	2
+曹勞	tao lao	2
 造立	tao lap	834
 掃墓	tao mo	2
 豆胕	tao pho	2
@@ -21561,8 +21611,10 @@ min_phrase_weight: 0
 聖地	thanh dia	1094
 聲調	thanh dieu	2
 錆調向	thanh dieu huong	2
+聖德	thanh duc	2
 聖堂	thanh duong	944
 聖架	thanh gia	1888
+錆楛	thanh go	2
 聖賢	thanh hien	608
 成形	thanh hinh	1514
 清化	thanh hoa	995
@@ -21611,6 +21663,7 @@ min_phrase_weight: 0
 成素	thanh to	877
 清算	thanh toan	2
 清查	thanh tra	4834
+錆𥯌	thanh tre	2
 城池	thanh tri	2
 清澄	thanh trung	607
 清秀	thanh tu	2
@@ -21897,6 +21950,7 @@ min_phrase_weight: 0
 少𨔊	thieu sot	1993
 少佐	thieu ta	2
 少錢	thieu tien	2
+紹治	thieu tri	2
 少將	thieu tuong	1896
 少咏	thieu vang	972
 𢗠𢗠	thin thit	2
@@ -21980,6 +22034,7 @@ min_phrase_weight: 0
 𢬳脈	thoc mach	2
 𠺙桮	thoi be	2
 時𣇜	thoi buoi	1117
+啐蹎	thoi chan	2
 時戰	thoi chien	750
 時機	thoi co	2
 時局	thoi cuoc	975
@@ -21995,6 +22050,7 @@ min_phrase_weight: 0
 時刻	thoi khac	842
 時課表	thoi khoa bieu	2
 時期	thoi ki	2
+啐𠵘	thoi mom	2
 梭𠬠丐	thoi mot cai	2
 啐捏	thoi nat	707
 催𥱮	thoi noi	2
@@ -22330,6 +22386,8 @@ min_phrase_weight: 0
 水晶	thuy tinh	2
 始祖	thuy to	2
 水潮	thuy trieu	2
+水文	thuy van	2
+翠雲	thuy van	2
 船𤿤	thuyen be	2
 鐫級	thuyen cap	2
 銓轉	thuyen chuyen	2
@@ -22431,7 +22489,10 @@ min_phrase_weight: 0
 便益	tien ich	938
 錢鐱	tien kem	2
 前劫	tien kiep	583
+先朗	tien lang	2
 前例	tien le	2
+前例	tien le	2
+錢𥛭	tien le	2
 錢糧	tien luong	2
 錢𩈘	tien mat	1672
 仙娥	tien nga	2
@@ -22840,6 +22901,7 @@ min_phrase_weight: 0
 㨋價	tra gia	1944
 揸籺𥣐	tra hat vung	2
 詐形	tra hinh	2
+查𠳨	tra hoi	2
 㨋搮𧴱	tra lat no	2
 㨋𠳒	tra loi	2
 茶眉	tra mi	1111
@@ -23064,7 +23126,9 @@ min_phrase_weight: 0
 智腛	tri oc	1304
 知識	tri thuc	2
 智識	tri thuc	12690
+智詐	tri tra	2
 遲滯	tri tre	2
+智慧	tri tue	2
 智想	tri tuong	1160
 治位	tri vi	2
 摘引	trich dan	5023
@@ -23240,6 +23304,7 @@ min_phrase_weight: 0
 貯情	tru tinh	676
 咮𧾿	tru treo	2
 住持	tru tri	2531
+曥夏	trua he	2
 迍邅	truan chien	2
 迍邅	truan chuyen	2
 直面	truc dien	785
@@ -23430,6 +23495,7 @@ min_phrase_weight: 0
 辭謝	tu gia	1329
 自覺	tu giac	1041
 囚監	tu giam	682
+徐海	tu hai	2
 四海	tu hai	2
 修行	tu hanh	2
 自豪	tu hao	2
@@ -23989,6 +24055,7 @@ min_phrase_weight: 0
 䞈摱	vay muon	2
 丕𢧚	vay nen	2
 湋渃	vay nuoc	2
+圍𨒺	vay quanh	2
 丕哰	vay sao	711
 𢯮𦖻	vay tai	2
 捤𢬣	vay tay	2
@@ -24001,6 +24068,8 @@ min_phrase_weight: 0
 𧗱兜	ve dau	2
 𧗱低	ve day	2
 𧗱蒂	ve day	2
+陛塘	ve duong	2
+𦘧塘朱㹯𧼋	ve duong cho huou chay	2
 𥿯項一	ve hang nhat	2
 𧗱休	ve huu	2
 𥿯去回	ve khu hoi	2
@@ -24035,6 +24104,8 @@ min_phrase_weight: 0
 儝𠾷	venh vao	2
 𩓳𡶀	veo nui	2
 𣍅鶩	veo vo	2
+𤵖𤴬	vet dau	2
+𤵖油	vet dau	2
 𤵖油𰺽	vet dau loang	2
 𢵼洄引渃	vet hoi dan nuoc	2
 𪽸𤌋	vet khoi	2
@@ -24383,6 +24454,7 @@ min_phrase_weight: 0
 舍利	xa loi	2
 舍利弗	xa loi phat	634
 社論	xa luan	331
+賒僥	xa nhau	2
 賒𨖨	xa roi	988
 賒耒	xa roi	2
 捨銃	xa sung	2
@@ -24558,6 +24630,7 @@ min_phrase_weight: 0
 𦎡𢷂	xinh xan	2
 眇卬眇𨂔	xiu ngang xiu doc	2
 搊𢩽	xo day	2
+搝蘿	xo la	2
 搝蘿𠀧槻	xo la ba que	2
 綀如蛹	xo nhu nhong	2
 綀桔	xo quyt	2
